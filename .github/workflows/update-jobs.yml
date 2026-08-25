@@ -41,18 +41,3 @@ jobs:
           git add jobs.json digest.html
           git diff --staged --quiet && echo "Nothing changed" || git commit -m "Job board refresh"
           git push
-
-      - name: Email the digest
-        if: steps.counts.outputs.new != '0'
-        continue-on-error: true
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          secure: true
-          username: ${{ secrets.MAIL_USERNAME }}
-          password: ${{ secrets.MAIL_PASSWORD }}
-          from: Job Radar
-          to: ${{ secrets.MAIL_TO }}
-          subject: "${{ steps.counts.outputs.new }} new remote IT jobs"
-          html_body: file://digest.html
