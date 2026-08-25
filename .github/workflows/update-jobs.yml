@@ -1,0 +1,52 @@
+name: Update job board
+
+on:
+  schedule:
+    - cron: "0 2 * * *"      # every day at 08:00 Bangladesh time
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Fetch jobs
+        run: python fetch_jobs.py
+
+      - name: Read new job count
+        id: counts
+        run: |
+          echo "new=$(python -c "import json;print(json.load(open('jobs.json'))['new_count'])")" >> $GITHUB_OUTPUT
+
+      - name: Save results
+        run: |
+          git config user.name "Job Radar"
+          git config user.email "actions@github.com"
+          git add jobs.json digest.html
+          git diff --staged --quiet || git commit -m "Job board refresh"
+          git push
+
+      - name: Email the digest
+        if: steps.counts.outputs.new != '0'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: Job Radar
+          to: ${{ secrets.MAIL_TO }}
+          subject: "${{ steps.counts.outputs.new }} new remote IT jobs"
+          html_body: file://digest.html
