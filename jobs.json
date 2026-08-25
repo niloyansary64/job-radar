@@ -1,7 +1,7 @@
 {
- "updated": "25 Aug 2026, 09:29 UTC",
+ "updated": "25 Aug 2026, 09:32 UTC",
  "total": 3,
- "new_count": 3,
+ "new_count": 0,
  "source_log": [
   "Remotive: 18 fetched",
   "RemoteOK: 99 fetched",
@@ -30,7 +30,7 @@
    "why": [
     "worldwide"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Mac MSP Help Desk Guru (work from home)",
@@ -50,7 +50,7 @@
    "why": [
     "anywhere"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Senior Customer Support Engineer",
@@ -70,7 +70,7 @@
    "why": [
     "apac"
    ],
-   "is_new": true
+   "is_new": false
   }
  ]
 }
