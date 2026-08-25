@@ -12,9 +12,9 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
@@ -45,7 +45,7 @@ jobs:
       - name: Email the digest
         if: steps.counts.outputs.new != '0'
         continue-on-error: true
-        uses: dawidd6/action-send-mail@v4
+        uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
           server_port: 465
