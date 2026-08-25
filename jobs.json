@@ -1,0 +1,76 @@
+{
+ "updated": "25 Aug 2026, 09:29 UTC",
+ "total": 3,
+ "new_count": 3,
+ "source_log": [
+  "Remotive: 18 fetched",
+  "RemoteOK: 99 fetched",
+  "Arbeitnow: 175 fetched",
+  "Jobicy: 50 fetched",
+  "Himalayas: 20 fetched",
+  "We Work Remotely: 27 fetched",
+  "ReliefWeb: unavailable (HTTPError)"
+ ],
+ "jobs": [
+  {
+   "title": "Tier III Service Desk Engineer",
+   "company": "Unio Digital",
+   "location": "Worldwide",
+   "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+   "posted": "2026-08-07T01:10:06",
+   "employment": "full_time",
+   "source": "Remotive",
+   "id": "c040d9c32885",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "service desk",
+   "age_days": 18,
+   "posted_human": "07 Aug 2026",
+   "why": [
+    "worldwide"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Mac MSP Help Desk Guru (work from home)",
+   "company": "Ignition, Inc.",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/ignition-inc-mac-msp-help-desk-guru-work-from-home",
+   "posted": "Thu, 28 May 2026 07:25:37 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "fef6b144ad81",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "help desk",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Senior Customer Support Engineer",
+   "company": "Fyxer",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/senior-customer-support-engineer-london-163343",
+   "posted": "2026-08-25T00:40:16",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "a373deceb8f2",
+   "verdict": "May include your region",
+   "rank": 2,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "25 Aug 2026",
+   "why": [
+    "apac"
+   ],
+   "is_new": true
+  }
+ ]
+}
