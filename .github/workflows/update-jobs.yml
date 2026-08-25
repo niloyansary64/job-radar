@@ -2,8 +2,8 @@ name: Update job board
 
 on:
   schedule:
-    - cron: "0 2 * * *"      # every day at 08:00 Bangladesh time
-  workflow_dispatch:          # lets you run it by hand from the Actions tab
+    - cron: "0 2 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,14 +12,17 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
-          python-version: "3.11"
+          python-version: "3.12"
 
       - name: Install requests
         run: pip install requests
+
+      - name: Check config is valid
+        run: python -c "import json; json.load(open('config.json')); print('config ok')"
 
       - name: Fetch jobs
         run: python fetch_jobs.py
@@ -27,19 +30,22 @@ jobs:
       - name: Read new job count
         id: counts
         run: |
-          echo "new=$(python -c "import json;print(json.load(open('jobs.json'))['new_count'])")" >> $GITHUB_OUTPUT
+          COUNT=$(python -c "import json; print(json.load(open('jobs.json'))['new_count'])")
+          echo "Found $COUNT new jobs"
+          echo "new=$COUNT" >> $GITHUB_OUTPUT
 
       - name: Save results
         run: |
           git config user.name "Job Radar"
           git config user.email "actions@github.com"
           git add jobs.json digest.html
-          git diff --staged --quiet || git commit -m "Job board refresh"
+          git diff --staged --quiet && echo "Nothing changed" || git commit -m "Job board refresh"
           git push
 
       - name: Email the digest
         if: steps.counts.outputs.new != '0'
-        uses: dawidd6/action-send-mail@v3
+        continue-on-error: true
+        uses: dawidd6/action-send-mail@v4
         with:
           server_address: smtp.gmail.com
           server_port: 465
