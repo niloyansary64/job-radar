@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#10241d; --paper:#f1f4f1; --card:#ffffff;
+    --open:#0f6b4f; --maybe:#8a5a08; --unclear:#4a5a70; --shut:#7d8a85;
+    --muted:#5b6b66; --line:#dbe3de;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font-family:Inter,system-ui,sans-serif; font-size:16px; line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:760px; margin:0 auto; padding:40px 20px 80px}
+
+  header{border-bottom:1px solid var(--line); padding-bottom:22px; margin-bottom:26px}
+  h1{
+    font-family:'Instrument Serif',Georgia,serif; font-weight:400;
+    font-size:38px; line-height:1.1; margin:0 0 6px;
+  }
+  h1 em{font-style:italic; color:var(--open)}
+  .meta{color:var(--muted); font-size:14px; margin:0}
+
+  .controls{display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin-bottom:26px}
+  .seg{display:flex; border:1px solid var(--line); border-radius:8px; overflow:hidden; background:var(--card)}
+  .seg button{
+    border:0; background:transparent; font:inherit; font-size:14px; color:var(--muted);
+    padding:9px 14px; cursor:pointer; border-right:1px solid var(--line);
+  }
+  .seg button:last-child{border-right:0}
+  .seg button[aria-pressed="true"]{background:var(--ink); color:#fff}
+  .seg button:focus-visible, .toggle:focus-within{outline:2px solid var(--open); outline-offset:2px}
+  .toggle{
+    display:flex; align-items:center; gap:8px; font-size:14px; color:var(--muted);
+    background:var(--card); border:1px solid var(--line); border-radius:8px; padding:9px 14px;
+    cursor:pointer;
+  }
+  .toggle input{accent-color:var(--open); margin:0}
+
+  .job{
+    background:var(--card); border:1px solid var(--line); border-radius:12px;
+    padding:18px 20px; margin-bottom:12px;
+  }
+  .stamp{
+    font-family:'JetBrains Mono',monospace; font-size:11px; font-weight:500;
+    letter-spacing:.09em; text-transform:uppercase;
+    border:1px solid currentColor; border-radius:3px; padding:3px 7px;
+    display:inline-block; margin-bottom:10px;
+  }
+  .r1{color:var(--open)} .r2{color:var(--maybe)} .r3{color:var(--unclear)} .r4{color:var(--shut)}
+  .visa{
+    font-family:'JetBrains Mono',monospace; font-size:11px; letter-spacing:.09em;
+    text-transform:uppercase; color:var(--open); margin-left:6px;
+  }
+  .new{
+    font-family:'JetBrains Mono',monospace; font-size:11px; letter-spacing:.09em;
+    text-transform:uppercase; color:var(--card); background:var(--ink);
+    border-radius:3px; padding:3px 7px; margin-left:6px;
+  }
+  .job h2{font-size:18px; font-weight:500; margin:0 0 3px; line-height:1.35}
+  .job h2 a{color:inherit; text-decoration:none}
+  .job h2 a:hover, .job h2 a:focus-visible{text-decoration:underline; text-decoration-color:var(--open)}
+  .company{margin:0 0 10px; color:var(--muted); font-size:15px}
+  .facts{margin:0; color:var(--muted); font-size:13px}
+  .facts span{white-space:nowrap}
+
+  .empty, .loading{
+    text-align:center; color:var(--muted); padding:54px 20px;
+    border:1px dashed var(--line); border-radius:12px;
+  }
+  footer{margin-top:34px; padding-top:20px; border-top:1px solid var(--line);
+    color:var(--muted); font-size:13px}
+  footer details summary{cursor:pointer}
+  footer code{font-family:'JetBrains Mono',monospace; font-size:12px}
+  @media (max-width:520px){ h1{font-size:30px} .wrap{padding:28px 16px 60px} }
+  @media (prefers-reduced-motion:no-preference){ .job{transition:border-color .15s} }
+  .job:hover{border-color:#c3d0c9}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Jobs you can <em>actually</em> apply to</h1>
+    <p class="meta" id="meta">Loading…</p>
+  </header>
+
+  <div class="controls">
+    <div class="seg" role="group" aria-label="Filter by eligibility">
+      <button data-max="2" aria-pressed="true">Best chances</button>
+      <button data-max="3" aria-pressed="false">Include unclear</button>
+      <button data-max="4" aria-pressed="false">Show everything</button>
+    </div>
+    <label class="toggle">
+      <input type="checkbox" id="visaOnly"> Sponsorship mentioned
+    </label>
+  </div>
+
+  <div id="list"><div class="loading">Loading the board…</div></div>
+
+  <footer>
+    <details>
+      <summary>Where these came from</summary>
+      <p id="log"></p>
+      <p>A stamp of <strong>open to anywhere</strong> means the posting says so in writing.
+      <strong>Location unclear</strong> means the employer never mentioned it — worth applying,
+      but ask early. <strong>Likely restricted</strong> means the posting rules out your situation.</p>
+    </details>
+  </footer>
+</div>
+
+<script>
+const RANKS = {1:["Open to anywhere","r1"],2:["May include your region","r2"],
+               3:["Location unclear","r3"],4:["Likely restricted","r4"]};
+let DATA = {jobs:[]}, maxRank = 2, visaOnly = false;
+
+function esc(s){const d=document.createElement("div"); d.textContent=s??""; return d.innerHTML;}
+
+function render(){
+  const list = document.getElementById("list");
+  const rows = DATA.jobs.filter(j =>
+    Math.ceil(j.rank) <= maxRank && (!visaOnly || j.sponsors));
+
+  if(!rows.length){
+    list.innerHTML = '<div class="empty">Nothing matches this filter today. ' +
+      'Try “Include unclear”, or check back tomorrow — the board refreshes every morning.</div>';
+    return;
+  }
+
+  list.innerHTML = rows.map(j => {
+    const [label, cls] = RANKS[Math.ceil(j.rank)] || RANKS[3];
+    return `<article class="job">
+      <span class="stamp ${cls}">${label}</span>
+      ${j.sponsors ? '<span class="visa">visa mentioned</span>' : ''}
+      ${j.is_new ? '<span class="new">new</span>' : ''}
+      <h2><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a></h2>
+      <p class="company">${esc(j.company) || "Company not stated"}</p>
+      <p class="facts">
+        <span>${esc(j.location) || "Location not stated"}</span> &nbsp;·&nbsp;
+        <span>${esc(j.posted_human)}</span> &nbsp;·&nbsp;
+        <span>${esc(j.source)}</span>
+        ${j.employment ? ' &nbsp;·&nbsp; <span>' + esc(j.employment) + '</span>' : ''}
+      </p>
+    </article>`;
+  }).join("");
+}
+
+document.querySelectorAll(".seg button").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll(".seg button").forEach(b =>
+      b.setAttribute("aria-pressed", b === btn));
+    maxRank = Number(btn.dataset.max);
+    render();
+  });
+});
+document.getElementById("visaOnly").addEventListener("change", e => {
+  visaOnly = e.target.checked; render();
+});
+
+fetch("jobs.json?" + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    DATA = d;
+    document.getElementById("meta").textContent =
+      `${d.total} jobs on the board · ${d.new_count} new · updated ${d.updated}`;
+    document.getElementById("log").textContent = (d.source_log || []).join(" · ");
+    render();
+  })
+  .catch(() => {
+    document.getElementById("meta").textContent = "Could not load the job list.";
+    document.getElementById("list").innerHTML =
+      '<div class="empty">The job file has not been created yet. ' +
+      'It appears after the first scheduled run.</div>';
+  });
+</script>
+</body>
+</html>

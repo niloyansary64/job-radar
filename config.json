@@ -1,0 +1,54 @@
+{
+  "_comment": "This is the only file you need to edit. Add or remove words inside the square brackets. Keep the quotes and commas.",
+
+  "role_keywords": [
+    "it support", "helpdesk", "help desk", "service desk", "desktop support",
+    "technical support", "support specialist", "support engineer", "support analyst",
+    "it officer", "it assistant", "it technician", "end user support",
+    "sysadmin", "system administrator", "systems administrator", "it administrator",
+    "microsoft 365", "office 365", "m365", "azure ad", "entra", "intune",
+    "endpoint", "device management", "active directory", "it operations",
+    "ict officer", "ict coordinator", "ict specialist", "it coordinator",
+    "infrastructure support", "network administrator", "noc"
+  ],
+
+  "exclude_keywords": [
+    "senior director", "vice president", "head of engineering",
+    "sales representative", "account executive", "commission only",
+    "unpaid", "internship unpaid", "no experience needed", "earn from home"
+  ],
+
+  "worldwide_signals": [
+    "worldwide", "anywhere", "global", "any country", "fully remote, anywhere",
+    "remote - anywhere", "location independent", "work from anywhere"
+  ],
+
+  "region_signals": [
+    "asia", "apac", "south asia", "bangladesh", "india", "emea",
+    "any timezone", "all timezones", "asia-pacific", "developing countries"
+  ],
+
+  "blocked_signals": [
+    "us only", "usa only", "united states only", "must reside in the us",
+    "authorized to work in the united states", "us work authorization",
+    "eu only", "european union only", "uk only", "must be based in",
+    "canada only", "australia only", "no visa sponsorship",
+    "we are unable to sponsor", "cannot provide sponsorship",
+    "not able to sponsor", "without sponsorship"
+  ],
+
+  "sponsorship_signals": [
+    "visa sponsorship", "sponsorship available", "we sponsor", "will sponsor",
+    "relocation support", "relocation assistance", "relocation package",
+    "work permit support", "visa support", "help with relocation"
+  ],
+
+  "scam_signals": [
+    "registration fee", "pay to apply", "training fee", "security deposit",
+    "whatsapp only", "telegram only", "send your cv to this number",
+    "earn $500 a day", "no interview", "instant hire"
+  ],
+
+  "max_age_days": 30,
+  "reliefweb_queries": ["information technology", "ICT officer", "IT support"]
+}
