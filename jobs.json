@@ -1,7 +1,7 @@
 {
- "updated": "25 Aug 2026, 10:24 UTC",
+ "updated": "26 Aug 2026, 04:23 UTC",
  "total": 3,
- "new_count": 0,
+ "new_count": 1,
  "source_log": [
   "Remotive: 18 fetched",
   "RemoteOK: 99 fetched",
@@ -25,7 +25,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 18,
+   "age_days": 19,
    "posted_human": "07 Aug 2026",
    "why": [
     "worldwide"
@@ -53,24 +53,22 @@
    "is_new": false
   },
   {
-   "title": "Senior Customer Support Engineer",
-   "company": "Fyxer",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/senior-customer-support-engineer-london-163343",
-   "posted": "2026-08-25T00:40:16",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "a373deceb8f2",
-   "verdict": "May include your region",
-   "rank": 2,
+   "title": "ERP System Administrator (Acumatica)",
+   "company": "Alimentiv",
+   "location": "Canada",
+   "url": "https://jobicy.com/jobs/151608-erp-system-administrator-acumatica",
+   "posted": "2026-08-25T14:48:00+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "bf7116283782",
+   "verdict": "Location unclear",
+   "rank": 3,
    "sponsors": false,
-   "matched_on": "support engineer",
+   "matched_on": "system administrator",
    "age_days": 0,
    "posted_human": "25 Aug 2026",
-   "why": [
-    "apac"
-   ],
-   "is_new": false
+   "why": [],
+   "is_new": true
   }
  ]
 }
