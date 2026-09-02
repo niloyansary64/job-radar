@@ -1,38 +1,17 @@
 {
- "updated": "01 Sep 2026, 02:12 UTC",
+ "updated": "02 Sep 2026, 02:21 UTC",
  "total": 4,
  "new_count": 2,
  "source_log": [
-  "Remotive: 19 fetched",
+  "Remotive: 18 fetched",
   "RemoteOK: 100 fetched",
   "Arbeitnow: 175 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 32 fetched",
+  "We Work Remotely: 33 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
-  {
-   "title": "Senior Support Engineer",
-   "company": "Obsidian Security",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/152243-senior-support-engineer-2",
-   "posted": "2026-08-31T18:56:37+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "2c9ec7fb56d7",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "support engineer",
-   "age_days": 0,
-   "posted_human": "31 Aug 2026",
-   "why": [
-    "global",
-    "asia"
-   ],
-   "is_new": true
-  },
   {
    "title": "Tier III Service Desk Engineer",
    "company": "Unio Digital",
@@ -46,7 +25,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 25,
+   "age_days": 26,
    "posted_human": "07 Aug 2026",
    "why": [
     "worldwide"
@@ -74,14 +53,32 @@
    "is_new": false
   },
   {
-   "title": "Sales Support Specialist",
-   "company": "Learntastic",
-   "location": "Mexico",
-   "url": "https://himalayas.app/companies/learntastic/jobs/sales-support-specialist-5293024920",
-   "posted": "2026-09-01T00:13:20",
+   "title": "IT Operations Analyst",
+   "company": "UpGuard",
+   "location": "LATAM",
+   "url": "https://jobicy.com/jobs/152340-it-operations-analyst",
+   "posted": "2026-09-01T14:49:43+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "86dee7250dc6",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "it operations",
+   "age_days": 0,
+   "posted_human": "01 Sep 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Afterhours Driver Support Specialist",
+   "company": "Spotter Labs",
+   "location": "Not stated",
+   "url": "https://himalayas.app/companies/spotter-labs/jobs/afterhours-driver-support-specialist",
+   "posted": "2026-09-01T23:48:29",
    "employment": "Full Time",
    "source": "Himalayas",
-   "id": "ebd2ca7d8220",
+   "id": "8ed85b399172",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
