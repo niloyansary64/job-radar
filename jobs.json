@@ -1,17 +1,37 @@
 {
- "updated": "05 Sep 2026, 02:13 UTC",
- "total": 6,
- "new_count": 3,
+ "updated": "06 Sep 2026, 02:13 UTC",
+ "total": 8,
+ "new_count": 4,
  "source_log": [
-  "Remotive: 18 fetched",
+  "Remotive: 15 fetched",
   "RemoteOK: 100 fetched",
-  "Arbeitnow: 175 fetched",
+  "Arbeitnow: 250 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 40 fetched",
+  "We Work Remotely: 42 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
+  {
+   "title": "Technical Support Engineer (6 month FTC)",
+   "company": "Everway",
+   "location": "United Kingdom",
+   "url": "https://himalayas.app/companies/everway/jobs/technical-support-engineer-6-month-ftc",
+   "posted": "2026-09-06T00:31:03",
+   "employment": "Contractor",
+   "source": "Himalayas",
+   "id": "15990292cb37",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": 0,
+   "posted_human": "06 Sep 2026",
+   "why": [
+    "global"
+   ],
+   "is_new": true
+  },
   {
    "title": "Tier III Service Desk Engineer",
    "company": "Unio Digital",
@@ -25,7 +45,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 29,
+   "age_days": 30,
    "posted_human": "07 Aug 2026",
    "why": [
     "worldwide"
@@ -71,41 +91,59 @@
     "anywhere",
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
-   "title": "(Senior) Consultant - Cloud Basic/Endpoint (m/w/d)",
-   "company": "Kramer & Crew GmbH & Co. KG",
-   "location": "K\u00f6ln",
-   "url": "https://www.arbeitnow.com/jobs/companies/kramer-crew-gmbh-co-kg/senior-consultant-cloud-basic-endpoint-koln-454182",
-   "posted": "2026-09-04T17:09:37",
-   "employment": "Experienced, Permanent, Full time",
+   "title": "Technical Support Engineer",
+   "company": "Plaid",
+   "location": "London Office",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/remote-technical-support-engineer-241358",
+   "posted": "2026-09-05T03:40:03",
+   "employment": "Full Time",
    "source": "Arbeitnow",
-   "id": "7ad0fc43eaa8",
+   "id": "575963521093",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "endpoint",
+   "matched_on": "technical support",
    "age_days": 0,
-   "posted_human": "04 Sep 2026",
+   "posted_human": "05 Sep 2026",
    "why": [],
    "is_new": true
   },
   {
-   "title": "Helpdesk Support Agent",
-   "company": "LevelUp",
-   "location": "Philippines",
-   "url": "https://jobicy.com/jobs/150148-helpdesk-support-agent",
-   "posted": "2026-09-04T05:20:10+00:00",
+   "title": "Customer Support Engineer",
+   "company": "RelationalAI",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/152570-customer-support-engineer-2",
+   "posted": "2026-09-05T11:17:43+00:00",
    "employment": "Full-Time",
    "source": "Jobicy",
-   "id": "5a98f0136c3b",
+   "id": "7298c8ea9c3a",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "helpdesk",
+   "matched_on": "support engineer",
    "age_days": 0,
-   "posted_human": "04 Sep 2026",
+   "posted_human": "05 Sep 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Support Engineer",
+   "company": "Roboflow",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/152566-support-engineer",
+   "posted": "2026-09-05T06:08:42+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "804e306764fb",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "05 Sep 2026",
    "why": [],
    "is_new": true
   },
@@ -128,7 +166,7 @@
     "anywhere",
     "must be based in"
    ],
-   "is_new": true
+   "is_new": false
   }
  ]
 }
