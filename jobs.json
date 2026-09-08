@@ -1,54 +1,35 @@
 {
- "updated": "07 Sep 2026, 02:13 UTC",
- "total": 8,
- "new_count": 5,
+ "updated": "08 Sep 2026, 02:13 UTC",
+ "total": 5,
+ "new_count": 1,
  "source_log": [
-  "Remotive: 18 fetched",
+  "Remotive: 17 fetched",
   "RemoteOK: 100 fetched",
   "Arbeitnow: 250 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 41 fetched",
+  "We Work Remotely: 42 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
-   "title": "(Senior / Staff) IT Operations Specialist (m/f/d)",
-   "company": "1Komma5Grad",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/senior-staff-it-operations-specialist-berlin-456284",
-   "posted": "2026-09-06T17:09:08",
-   "employment": "Experienced, Permanent, Full time",
-   "source": "Arbeitnow",
-   "id": "929f84d48008",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "it operations",
-   "age_days": 0,
-   "posted_human": "06 Sep 2026",
-   "why": [
-    "worldwide"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Technical Support Engineer (Remote/West Coast)",
-   "company": "Tenable",
+   "title": "Data Lead - Central Data Team",
+   "company": "YipitData",
    "location": "USA",
-   "url": "https://jobicy.com/jobs/152678-technical-support-engineer-remote-west-coast",
-   "posted": "2026-09-06T11:06:15+00:00",
+   "url": "https://jobicy.com/jobs/152751-data-lead-central-data-team",
+   "posted": "2026-09-07T16:39:01+00:00",
    "employment": "Full-Time",
    "source": "Jobicy",
-   "id": "5a4549f0480b",
+   "id": "603393482582",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "technical support",
+   "matched_on": "entra",
    "age_days": 0,
-   "posted_human": "06 Sep 2026",
+   "posted_human": "07 Sep 2026",
    "why": [
-    "global"
+    "global",
+    "apac"
    ],
    "is_new": true
   },
@@ -106,48 +87,12 @@
    "rank": 2,
    "sponsors": false,
    "matched_on": "support engineer",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "06 Sep 2026",
    "why": [
     "apac"
    ],
-   "is_new": true
-  },
-  {
-   "title": "Senior Consultant Endpoint Management (m/w/d)",
-   "company": "Skaylink",
-   "location": "Garching bei M\u00fcnchen, Bayern",
-   "url": "https://www.arbeitnow.com/jobs/companies/skaylink/senior-consultant-endpoint-management-garching-bei-munchen-bayern-341135",
-   "posted": "2026-09-06T23:05:29",
-   "employment": "Full-time",
-   "source": "Arbeitnow",
-   "id": "b3d530e2b313",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "endpoint",
-   "age_days": 0,
-   "posted_human": "06 Sep 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Customer Support Engineer (Tier 2)",
-   "company": "Tailscale",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/152672-customer-support-engineer-tier-2",
-   "posted": "2026-09-06T11:04:45+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "30fe7cae83dc",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "support engineer",
-   "age_days": 0,
-   "posted_human": "06 Sep 2026",
-   "why": [],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Live Technical Support Representative \u2014 Full-Time \u2014 $40,000/year + Benefits (Sat-Sun required) (Location: Remote, U.S.-based)",
