@@ -1,17 +1,59 @@
 {
- "updated": "16 Sep 2026, 02:13 UTC",
- "total": 8,
- "new_count": 3,
+ "updated": "17 Sep 2026, 02:13 UTC",
+ "total": 12,
+ "new_count": 6,
  "source_log": [
-  "Remotive: 15 fetched",
+  "Remotive: 13 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 250 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 45 fetched",
+  "We Work Remotely: 44 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
+  {
+   "title": "Head of Technical Support",
+   "company": "Duffel",
+   "location": "London, United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/duffel/head-of-technical-support-london-224964",
+   "posted": "2026-09-16T21:40:10",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "e8588ab7277a",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": 0,
+   "posted_human": "16 Sep 2026",
+   "why": [
+    "global",
+    "apac"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Technical Support Manager",
+   "company": "Teal Communications, Inc.",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/teal-communications-inc/jobs/technical-support-manager",
+   "posted": "2026-09-17T01:35:48",
+   "employment": "Full Time",
+   "source": "Himalayas",
+   "id": "441f4cc396ff",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": 0,
+   "posted_human": "17 Sep 2026",
+   "why": [
+    "global",
+    "emea"
+   ],
+   "is_new": true
+  },
   {
    "title": "Data Center IT Technician",
    "company": "Nebius",
@@ -25,12 +67,12 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it technician",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "16 Sep 2026",
    "why": [
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Tier III Service Desk Engineer",
@@ -45,7 +87,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 9,
+   "age_days": 10,
    "posted_human": "07 Sep 2026",
    "why": [
     "worldwide"
@@ -73,6 +115,26 @@
    "is_new": false
   },
   {
+   "title": "Head of Technical Support @ Koast.ai",
+   "company": "Koast.ai",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/koast-ai-head-of-technical-support-koast-ai",
+   "posted": "Wed, 16 Sep 2026 17:51:58 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "aa2b52857e49",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere"
+   ],
+   "is_new": true
+  },
+  {
    "title": "AI Success Manager, Central",
    "company": "Glean",
    "location": "Anywhere in the World",
@@ -94,38 +156,58 @@
    "is_new": false
   },
   {
-   "title": "Technical Support Advisor",
-   "company": "Ada",
-   "location": "UK",
-   "url": "https://jobicy.com/jobs/153309-technical-support-advisor-2",
-   "posted": "2026-09-15T06:02:57+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "49c5679f26c7",
+   "title": "Senior Assigned Support Engineer (EMEA)",
+   "company": "gitlab",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-assigned-support-engineer-emea-56185",
+   "posted": "2026-09-17T00:55:09",
+   "employment": "",
+   "source": "Arbeitnow",
+   "id": "ae3f29cdfa14",
+   "verdict": "May include your region",
+   "rank": 2,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "17 Sep 2026",
+   "why": [
+    "emea"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Working Student IT Helpdesk (m/f/d)",
+   "company": "isaraerospace",
+   "location": "Parsdorf, Bavaria",
+   "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/working-student-it-helpdesk-parsdorf-bavaria-349999",
+   "posted": "2026-09-16T20:55:33",
+   "employment": "",
+   "source": "Arbeitnow",
+   "id": "31d77e4551b0",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "technical support",
+   "matched_on": "helpdesk",
    "age_days": 0,
-   "posted_human": "15 Sep 2026",
+   "posted_human": "16 Sep 2026",
    "why": [],
    "is_new": true
   },
   {
-   "title": "IT Administrator",
-   "company": "Kalshi",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/150748-it-administrator",
-   "posted": "2026-09-15T04:45:22+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "8a3dd803f888",
+   "title": "CENTRALE LYON - Postdoctoral Researcher Position Deep Learning for Functional-Oxide Growth Video-to-Spectrum Prediction by RHEED / XRD Fusion",
+   "company": "CENTRALE LYON",
+   "location": "Ecully, Auvergne-Rh\u00f4ne-Alpes, France",
+   "url": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-postdoctoral-researcher-position-deep-learning-for-functional-oxide-growth-video-to-spectrum-prediction-by-rheed-xrd-fusion-ecully-390349",
+   "posted": "2026-09-16T13:30:08",
+   "employment": "Entry, fulltime fixed term",
+   "source": "Arbeitnow",
+   "id": "328f922e06ab",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "it administrator",
+   "matched_on": "entra",
    "age_days": 0,
-   "posted_human": "15 Sep 2026",
+   "posted_human": "16 Sep 2026",
    "why": [],
    "is_new": true
   },
