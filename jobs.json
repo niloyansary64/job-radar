@@ -1,17 +1,79 @@
 {
- "updated": "27 Sep 2026, 07:48 UTC",
- "total": 6,
- "new_count": 1,
+ "updated": "28 Sep 2026, 08:25 UTC",
+ "total": 9,
+ "new_count": 4,
  "source_log": [
-  "Remotive: 18 fetched",
+  "Remotive: 17 fetched",
   "RemoteOK: 99 fetched",
-  "Arbeitnow: 325 fetched",
+  "Arbeitnow: 326 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 48 fetched",
+  "We Work Remotely: 54 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
+  {
+   "title": "Dedicated Linux Desktop & Devices Support Engineer, Singapore",
+   "company": "Canonical",
+   "location": "APAC",
+   "url": "https://jobicy.com/jobs/151891-dedicated-linux-desktop-devices-support-engineer-singapore-2",
+   "posted": "2026-09-27T07:40:15+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "06f1dd63cb89",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 1,
+   "posted_human": "27 Sep 2026",
+   "why": [
+    "global",
+    "apac"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Cloud Support Engineer",
+   "company": "Canonical",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/151889-cloud-support-engineer-2",
+   "posted": "2026-09-27T07:40:13+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "7923d68e0ee4",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 1,
+   "posted_human": "27 Sep 2026",
+   "why": [
+    "anywhere",
+    "global"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Technical Support Specialist , UK",
+   "company": "Nash",
+   "location": "UK",
+   "url": "https://jobicy.com/jobs/151857-technical-support-specialist-uk",
+   "posted": "2026-09-27T07:35:12+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "5cdf6bc233bf",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": 1,
+   "posted_human": "27 Sep 2026",
+   "why": [
+    "global"
+   ],
+   "is_new": true
+  },
   {
    "title": "Tier III Service Desk Engineer",
    "company": "Unio Digital",
@@ -25,7 +87,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 20,
+   "age_days": 21,
    "posted_human": "07 Sep 2026",
    "why": [
     "worldwide"
@@ -95,20 +157,20 @@
    "is_new": false
   },
   {
-   "title": "ERP System Administrator (Acumatica)",
-   "company": "Alimentiv",
-   "location": "Canada",
-   "url": "https://jobicy.com/jobs/151608-erp-system-administrator-acumatica",
-   "posted": "2026-09-26T11:25:09+00:00",
+   "title": "Service Desk/System Administrator",
+   "company": "Playson",
+   "location": "Ukraine",
+   "url": "https://jobicy.com/jobs/151895-service-desk-system-administrator",
+   "posted": "2026-09-27T07:40:08+00:00",
    "employment": "Full-Time",
    "source": "Jobicy",
-   "id": "bf7116283782",
+   "id": "cdb386a7e94e",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "system administrator",
-   "age_days": 0,
-   "posted_human": "26 Sep 2026",
+   "matched_on": "service desk",
+   "age_days": 1,
+   "posted_human": "27 Sep 2026",
    "why": [],
    "is_new": true
   },
