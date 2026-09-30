@@ -1,38 +1,17 @@
 {
- "updated": "29 Sep 2026, 08:05 UTC",
- "total": 10,
- "new_count": 5,
+ "updated": "30 Sep 2026, 08:11 UTC",
+ "total": 8,
+ "new_count": 2,
  "source_log": [
   "Remotive: 16 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 326 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 53 fetched",
+  "We Work Remotely: 56 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
-  {
-   "title": "IT Administrator - AI & Cybersecurity",
-   "company": "Voodoo",
-   "location": "Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/it-administrator-ai-cybersecurity-paris-39909",
-   "posted": "2026-09-28T13:40:07",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "15725f8cafe8",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "it administrator",
-   "age_days": 0,
-   "posted_human": "28 Sep 2026",
-   "why": [
-    "worldwide",
-    "global"
-   ],
-   "is_new": true
-  },
   {
    "title": "Technical Support Engineer",
    "company": "nozominetworks",
@@ -46,12 +25,12 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "technical support",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "28 Sep 2026",
    "why": [
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Tier III Service Desk Engineer",
@@ -66,7 +45,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 22,
+   "age_days": 23,
    "posted_human": "07 Sep 2026",
    "why": [
     "worldwide"
@@ -136,58 +115,40 @@
    "is_new": false
   },
   {
-   "title": "Support Engineer (EMEA)",
-   "company": "Supabase",
-   "location": "EMEA",
-   "url": "https://jobicy.com/jobs/152053-support-engineer-emea",
-   "posted": "2026-09-29T03:35:15+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "723a81bde46b",
+   "title": "Sr Systems Support Engineer",
+   "company": "Harris",
+   "location": "India",
+   "url": "https://himalayas.app/companies/harris/jobs/sr-systems-support-engineer",
+   "posted": "2026-09-30T05:44:08",
+   "employment": "Full Time",
+   "source": "Himalayas",
+   "id": "41109cc5bf71",
    "verdict": "May include your region",
    "rank": 2,
    "sponsors": false,
    "matched_on": "support engineer",
    "age_days": 0,
-   "posted_human": "29 Sep 2026",
+   "posted_human": "30 Sep 2026",
    "why": [
-    "emea"
+    "india"
    ],
    "is_new": true
   },
   {
-   "title": "Bilingual Product Support Analyst (Canadian French)",
-   "company": "D2L",
-   "location": "Canada",
-   "url": "https://jobicy.com/jobs/151964-bilingual-product-support-analyst-canadian-french",
-   "posted": "2026-09-29T03:30:32+00:00",
+   "title": "Senior Customer Support Engineer",
+   "company": "NetBox Labs",
+   "location": "Australia",
+   "url": "https://jobicy.com/jobs/152075-senior-customer-support-engineer-3",
+   "posted": "2026-09-30T04:10:07+00:00",
    "employment": "Full-Time",
    "source": "Jobicy",
-   "id": "0ca92f2892b8",
+   "id": "23821fb91247",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "support analyst",
+   "matched_on": "support engineer",
    "age_days": 0,
-   "posted_human": "29 Sep 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Business Development Manager, Central Region",
-   "company": "CompScience",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/150698-business-development-manager-central-region",
-   "posted": "2026-09-29T03:30:08+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "1b2e93a2b6af",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "entra",
-   "age_days": 0,
-   "posted_human": "29 Sep 2026",
+   "posted_human": "30 Sep 2026",
    "why": [],
    "is_new": true
   },
