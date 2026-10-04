@@ -1,32 +1,116 @@
 {
- "updated": "03 Oct 2026, 07:47 UTC",
- "total": 9,
- "new_count": 4,
+ "updated": "04 Oct 2026, 07:56 UTC",
+ "total": 15,
+ "new_count": 8,
  "source_log": [
-  "Remotive: 17 fetched",
+  "Remotive: 16 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 325 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 49 fetched",
+  "We Work Remotely: 46 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
-   "title": "Director, Lakebase Sales Specialists (Central region)",
-   "company": "databricks",
-   "location": "Munich",
-   "url": "https://www.arbeitnow.com/jobs/companies/databricks/director-lakebase-sales-specialists-central-region-munich-374513",
-   "posted": "2026-10-02T23:55:03",
+   "title": "\u2600\ufe0f\ufe0fJapanese-Speaking Customer Support Specialist-Relocate to Sunny Greece\ud83c\uddec\ud83c\uddf7",
+   "company": "Next Job Abroad",
+   "location": "Paris, France",
+   "url": "https://www.arbeitnow.fr/jobs/companies/next-job-abroad/japanese-speaking-customer-support-specialist-relocate-to-sunny-greece-paris-233439",
+   "posted": "2026-10-03T13:20:12",
    "employment": "",
    "source": "Arbeitnow",
-   "id": "99cee5d3d77e",
+   "id": "d7e05ec23e0d",
+   "verdict": "Open to anywhere",
+   "rank": 0.5,
+   "sponsors": true,
+   "matched_on": "support specialist",
+   "age_days": 0,
+   "posted_human": "03 Oct 2026",
+   "why": [
+    "global",
+    "relocation support"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "\u2600\ufe0f\ufe0fFrench-Speaking Customer Support Specialist-Relocate to Sunny Greece\ud83c\uddec\ud83c\uddf7",
+   "company": "Next Job Abroad",
+   "location": "Marseille, France",
+   "url": "https://www.arbeitnow.fr/jobs/companies/next-job-abroad/french-speaking-customer-support-specialist-relocate-to-sunny-greece-marseille-311877",
+   "posted": "2026-10-03T13:20:12",
+   "employment": "",
+   "source": "Arbeitnow",
+   "id": "1594c95c47fa",
+   "verdict": "Open to anywhere",
+   "rank": 0.5,
+   "sponsors": true,
+   "matched_on": "support specialist",
+   "age_days": 0,
+   "posted_human": "03 Oct 2026",
+   "why": [
+    "global",
+    "relocation support"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "\u2600\ufe0f\ufe0fGerman-Speaking Customer Support Specialist-Relocate to Sunny Greece\ud83c\uddec\ud83c\uddf7",
+   "company": "Next Job Abroad",
+   "location": "Z\u00fcrich, Switzerland",
+   "url": "https://www.arbeitnow.ch/jobs/companies/next-job-abroad/german-speaking-customer-support-specialist-relocate-to-sunny-greece-zurich-42120",
+   "posted": "2026-10-03T14:20:15",
+   "employment": "",
+   "source": "Arbeitnow",
+   "id": "296f39fae67c",
+   "verdict": "Open to anywhere",
+   "rank": 0.5,
+   "sponsors": true,
+   "matched_on": "support specialist",
+   "age_days": 0,
+   "posted_human": "03 Oct 2026",
+   "why": [
+    "global",
+    "relocation support"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "IT Operations Specialist (m/f/d)",
+   "company": "Statista",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/statista/it-operations-specialist-hamburg-153112",
+   "posted": "2026-10-03T23:40:13",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "baea27caf11c",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "entra",
+   "matched_on": "it operations",
    "age_days": 0,
-   "posted_human": "02 Oct 2026",
+   "posted_human": "03 Oct 2026",
+   "why": [
+    "worldwide",
+    "global"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Dedicated Support Engineer - London",
+   "company": "Openai",
+   "location": "London, UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/dedicated-support-engineer-london-363290",
+   "posted": "2026-10-04T00:40:08",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "633dd8caa6db",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "04 Oct 2026",
    "why": [
     "global"
    ],
@@ -45,12 +129,12 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "03 Oct 2026",
    "why": [
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Tier III Service Desk Engineer",
@@ -65,7 +149,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 26,
+   "age_days": 27,
    "posted_human": "07 Sep 2026",
    "why": [
     "worldwide"
@@ -90,7 +174,7 @@
    "why": [
     "anywhere"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "US Remote Technical Support Advisor",
@@ -134,25 +218,60 @@
    "is_new": false
   },
   {
-   "title": "AI Success Manager, Central",
-   "company": "Glean",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/glean-ai-success-manager-central",
-   "posted": "Fri, 04 Sep 2026 07:30:53 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "7dcedd78ce59",
-   "verdict": "Open to anywhere",
-   "rank": 1,
+   "title": "Post-doctorant\u00b7e en apprentissage d\u00e9centralis\u00e9 s\u00fbr, conficentiel et explicable - CDD 12 mois",
+   "company": "Institut Mines-T\u00e9l\u00e9com",
+   "location": "EVRY, \u00cele-de-France, France",
+   "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-en-apprentissage-decentralise-sur-conficentiel-et-explicable-cdd-12-mois-evry-428047",
+   "posted": "2026-10-03T16:30:22",
+   "employment": "Entry, fulltime fixed term",
+   "source": "Arbeitnow",
+   "id": "70e08629be6b",
+   "verdict": "May include your region",
+   "rank": 2,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": null,
-   "posted_human": "Date not stated",
+   "age_days": 0,
+   "posted_human": "03 Oct 2026",
    "why": [
-    "anywhere",
-    "global"
+    "apac"
    ],
-   "is_new": false
+   "is_new": true
+  },
+  {
+   "title": "Founding Customer Support Engineer",
+   "company": "comstruct ICT",
+   "location": "Munich",
+   "url": "https://www.arbeitnow.com/jobs/companies/comstruct-ict/founding-customer-support-engineer-munich-325214",
+   "posted": "2026-10-04T02:40:02",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "81db136fabac",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "04 Oct 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Strategy Manager Krankentransport (m/w/d) \u2013 Business Development & Go-to-Market",
+   "company": "DMRZ",
+   "location": "D\u00fcsseldorf",
+   "url": "https://www.arbeitnow.com/jobs/companies/dmrz/strategy-manager-krankentransport-business-development-go-to-market-dusseldorf-328508",
+   "posted": "2026-10-04T02:09:10",
+   "employment": "Experienced, Permanent, Full time",
+   "source": "Arbeitnow",
+   "id": "0c8f680ecd94",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "entra",
+   "age_days": 0,
+   "posted_human": "04 Oct 2026",
+   "why": [],
+   "is_new": true
   },
   {
    "title": "Customer Support Specialist",
@@ -167,10 +286,10 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "03 Oct 2026",
    "why": [],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Live Technical Support Representative \u2014 Full-Time \u2014 $45,000 - $55,000/year + Benefits (Sat-Sun required) (Location: Remote, U.S.-based)",
