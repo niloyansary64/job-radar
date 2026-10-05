@@ -1,14 +1,14 @@
 {
- "updated": "04 Oct 2026, 07:56 UTC",
- "total": 15,
- "new_count": 8,
+ "updated": "05 Oct 2026, 08:38 UTC",
+ "total": 12,
+ "new_count": 3,
  "source_log": [
-  "Remotive: 16 fetched",
+  "Remotive: 18 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 325 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 46 fetched",
+  "We Work Remotely: 49 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
@@ -25,13 +25,13 @@
    "rank": 0.5,
    "sponsors": true,
    "matched_on": "support specialist",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "03 Oct 2026",
    "why": [
     "global",
     "relocation support"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "\u2600\ufe0f\ufe0fFrench-Speaking Customer Support Specialist-Relocate to Sunny Greece\ud83c\uddec\ud83c\uddf7",
@@ -46,13 +46,13 @@
    "rank": 0.5,
    "sponsors": true,
    "matched_on": "support specialist",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "03 Oct 2026",
    "why": [
     "global",
     "relocation support"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "\u2600\ufe0f\ufe0fGerman-Speaking Customer Support Specialist-Relocate to Sunny Greece\ud83c\uddec\ud83c\uddf7",
@@ -67,74 +67,34 @@
    "rank": 0.5,
    "sponsors": true,
    "matched_on": "support specialist",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "03 Oct 2026",
    "why": [
     "global",
     "relocation support"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
-   "title": "IT Operations Specialist (m/f/d)",
-   "company": "Statista",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/statista/it-operations-specialist-hamburg-153112",
-   "posted": "2026-10-03T23:40:13",
-   "employment": "Full Time",
+   "title": "Director, Customer Success EMEA (Southern and Central Europe)",
+   "company": "Onestream",
+   "location": "",
+   "url": "https://www.arbeitnow.fr/jobs/companies/onestream/director-customer-success-emea-southern-and-central-europe-143953",
+   "posted": "2026-10-04T13:55:04",
+   "employment": "",
    "source": "Arbeitnow",
-   "id": "baea27caf11c",
+   "id": "a8bc5a7c41e2",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "it operations",
-   "age_days": 0,
-   "posted_human": "03 Oct 2026",
-   "why": [
-    "worldwide",
-    "global"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Dedicated Support Engineer - London",
-   "company": "Openai",
-   "location": "London, UK",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/dedicated-support-engineer-london-363290",
-   "posted": "2026-10-04T00:40:08",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "633dd8caa6db",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "support engineer",
+   "matched_on": "entra",
    "age_days": 0,
    "posted_human": "04 Oct 2026",
    "why": [
-    "global"
+    "global",
+    "emea"
    ],
    "is_new": true
-  },
-  {
-   "title": "Customer Support Specialist",
-   "company": "Juniper Square",
-   "location": "Canada, USA",
-   "url": "https://jobicy.com/jobs/150027-customer-support-specialist-2",
-   "posted": "2026-10-03T03:35:11+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "0597929f8581",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": 1,
-   "posted_human": "03 Oct 2026",
-   "why": [
-    "global"
-   ],
-   "is_new": false
   },
   {
    "title": "Tier III Service Desk Engineer",
@@ -149,12 +109,32 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 27,
+   "age_days": 28,
    "posted_human": "07 Sep 2026",
    "why": [
     "worldwide"
    ],
    "is_new": false
+  },
+  {
+   "title": "Senior Support Engineer",
+   "company": "Town Web",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/town-web-senior-support-engineer",
+   "posted": "Mon, 05 Oct 2026 08:04:16 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "11e153e78b84",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere"
+   ],
+   "is_new": true
   },
   {
    "title": "IT Support Specialist",
@@ -230,66 +210,30 @@
    "rank": 2,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "03 Oct 2026",
    "why": [
     "apac"
    ],
-   "is_new": true
-  },
-  {
-   "title": "Founding Customer Support Engineer",
-   "company": "comstruct ICT",
-   "location": "Munich",
-   "url": "https://www.arbeitnow.com/jobs/companies/comstruct-ict/founding-customer-support-engineer-munich-325214",
-   "posted": "2026-10-04T02:40:02",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "81db136fabac",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "support engineer",
-   "age_days": 0,
-   "posted_human": "04 Oct 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Strategy Manager Krankentransport (m/w/d) \u2013 Business Development & Go-to-Market",
-   "company": "DMRZ",
-   "location": "D\u00fcsseldorf",
-   "url": "https://www.arbeitnow.com/jobs/companies/dmrz/strategy-manager-krankentransport-business-development-go-to-market-dusseldorf-328508",
-   "posted": "2026-10-04T02:09:10",
-   "employment": "Experienced, Permanent, Full time",
-   "source": "Arbeitnow",
-   "id": "0c8f680ecd94",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "entra",
-   "age_days": 0,
-   "posted_human": "04 Oct 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Customer Support Specialist",
-   "company": "Owkin",
-   "location": "Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/owkin/customer-support-specialist-paris-75958",
-   "posted": "2026-10-03T04:40:05",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "43561d254090",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": 1,
-   "posted_human": "03 Oct 2026",
-   "why": [],
    "is_new": false
+  },
+  {
+   "title": "Werkstudent Technical Support & Self-Service (m/w/d)",
+   "company": "Thermondo",
+   "location": "Berlin (Zentrale)",
+   "url": "https://www.arbeitnow.com/jobs/companies/thermondo/werkstudent-technical-support-self-service-berlin-zentrale-437911",
+   "posted": "2026-10-04T23:09:28",
+   "employment": "Entry, Working student, Part time",
+   "source": "Arbeitnow",
+   "id": "ddffd2339c5e",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": 0,
+   "posted_human": "04 Oct 2026",
+   "why": [],
+   "is_new": true
   },
   {
    "title": "Live Technical Support Representative \u2014 Full-Time \u2014 $45,000 - $55,000/year + Benefits (Sat-Sun required) (Location: Remote, U.S.-based)",
