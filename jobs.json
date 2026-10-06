@@ -1,59 +1,17 @@
 {
- "updated": "05 Oct 2026, 08:38 UTC",
- "total": 12,
+ "updated": "06 Oct 2026, 08:44 UTC",
+ "total": 10,
  "new_count": 3,
  "source_log": [
-  "Remotive: 18 fetched",
+  "Remotive: 17 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 325 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 49 fetched",
+  "We Work Remotely: 55 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
-  {
-   "title": "\u2600\ufe0f\ufe0fJapanese-Speaking Customer Support Specialist-Relocate to Sunny Greece\ud83c\uddec\ud83c\uddf7",
-   "company": "Next Job Abroad",
-   "location": "Paris, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/next-job-abroad/japanese-speaking-customer-support-specialist-relocate-to-sunny-greece-paris-233439",
-   "posted": "2026-10-03T13:20:12",
-   "employment": "",
-   "source": "Arbeitnow",
-   "id": "d7e05ec23e0d",
-   "verdict": "Open to anywhere",
-   "rank": 0.5,
-   "sponsors": true,
-   "matched_on": "support specialist",
-   "age_days": 1,
-   "posted_human": "03 Oct 2026",
-   "why": [
-    "global",
-    "relocation support"
-   ],
-   "is_new": false
-  },
-  {
-   "title": "\u2600\ufe0f\ufe0fFrench-Speaking Customer Support Specialist-Relocate to Sunny Greece\ud83c\uddec\ud83c\uddf7",
-   "company": "Next Job Abroad",
-   "location": "Marseille, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/next-job-abroad/french-speaking-customer-support-specialist-relocate-to-sunny-greece-marseille-311877",
-   "posted": "2026-10-03T13:20:12",
-   "employment": "",
-   "source": "Arbeitnow",
-   "id": "1594c95c47fa",
-   "verdict": "Open to anywhere",
-   "rank": 0.5,
-   "sponsors": true,
-   "matched_on": "support specialist",
-   "age_days": 1,
-   "posted_human": "03 Oct 2026",
-   "why": [
-    "global",
-    "relocation support"
-   ],
-   "is_new": false
-  },
   {
    "title": "\u2600\ufe0f\ufe0fGerman-Speaking Customer Support Specialist-Relocate to Sunny Greece\ud83c\uddec\ud83c\uddf7",
    "company": "Next Job Abroad",
@@ -67,34 +25,13 @@
    "rank": 0.5,
    "sponsors": true,
    "matched_on": "support specialist",
-   "age_days": 1,
+   "age_days": 2,
    "posted_human": "03 Oct 2026",
    "why": [
     "global",
     "relocation support"
    ],
    "is_new": false
-  },
-  {
-   "title": "Director, Customer Success EMEA (Southern and Central Europe)",
-   "company": "Onestream",
-   "location": "",
-   "url": "https://www.arbeitnow.fr/jobs/companies/onestream/director-customer-success-emea-southern-and-central-europe-143953",
-   "posted": "2026-10-04T13:55:04",
-   "employment": "",
-   "source": "Arbeitnow",
-   "id": "a8bc5a7c41e2",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "entra",
-   "age_days": 0,
-   "posted_human": "04 Oct 2026",
-   "why": [
-    "global",
-    "emea"
-   ],
-   "is_new": true
   },
   {
    "title": "Tier III Service Desk Engineer",
@@ -109,7 +46,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 28,
+   "age_days": 29,
    "posted_human": "07 Sep 2026",
    "why": [
     "worldwide"
@@ -134,7 +71,7 @@
    "why": [
     "anywhere"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "IT Support Specialist",
@@ -198,40 +135,56 @@
    "is_new": false
   },
   {
-   "title": "Post-doctorant\u00b7e en apprentissage d\u00e9centralis\u00e9 s\u00fbr, conficentiel et explicable - CDD 12 mois",
-   "company": "Institut Mines-T\u00e9l\u00e9com",
-   "location": "EVRY, \u00cele-de-France, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-en-apprentissage-decentralise-sur-conficentiel-et-explicable-cdd-12-mois-evry-428047",
-   "posted": "2026-10-03T16:30:22",
-   "employment": "Entry, fulltime fixed term",
+   "title": "Senior Support Specialist/Customer Success, Desktop Perplexity (London, Belgrade, Berlin)",
+   "company": "Perplexity",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/perplexity/senior-support-specialist-customer-success-desktop-perplexity-london-belgrade-berlin-444343",
+   "posted": "2026-10-06T06:40:04",
+   "employment": "Full Time",
    "source": "Arbeitnow",
-   "id": "70e08629be6b",
-   "verdict": "May include your region",
-   "rank": 2,
-   "sponsors": false,
-   "matched_on": "entra",
-   "age_days": 1,
-   "posted_human": "03 Oct 2026",
-   "why": [
-    "apac"
-   ],
-   "is_new": false
-  },
-  {
-   "title": "Werkstudent Technical Support & Self-Service (m/w/d)",
-   "company": "Thermondo",
-   "location": "Berlin (Zentrale)",
-   "url": "https://www.arbeitnow.com/jobs/companies/thermondo/werkstudent-technical-support-self-service-berlin-zentrale-437911",
-   "posted": "2026-10-04T23:09:28",
-   "employment": "Entry, Working student, Part time",
-   "source": "Arbeitnow",
-   "id": "ddffd2339c5e",
+   "id": "b1673ccb056e",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "technical support",
+   "matched_on": "support specialist",
    "age_days": 0,
-   "posted_human": "04 Oct 2026",
+   "posted_human": "06 Oct 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Customer Support Engineer",
+   "company": "RelationalAI",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/152570-customer-support-engineer-2",
+   "posted": "2026-10-06T04:50:09+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "7298c8ea9c3a",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "06 Oct 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Support Engineer",
+   "company": "Roboflow",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/152566-support-engineer",
+   "posted": "2026-10-06T04:50:06+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "804e306764fb",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "06 Oct 2026",
    "why": [],
    "is_new": true
   },
