@@ -1,38 +1,17 @@
 {
- "updated": "09 Oct 2026, 08:40 UTC",
- "total": 13,
- "new_count": 7,
+ "updated": "10 Oct 2026, 08:14 UTC",
+ "total": 8,
+ "new_count": 0,
  "source_log": [
-  "Remotive: 19 fetched",
+  "Remotive: 17 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 325 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 69 fetched",
+  "We Work Remotely: 71 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
-  {
-   "title": "Platform Support Engineer (Eng I)",
-   "company": "Kraken",
-   "location": "London, UK",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/platform-support-engineer-eng-i-london-488310",
-   "posted": "2026-10-09T03:40:10",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "38b1cd36b938",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "support engineer",
-   "age_days": 0,
-   "posted_human": "09 Oct 2026",
-   "why": [
-    "worldwide",
-    "global"
-   ],
-   "is_new": true
-  },
   {
    "title": "Technical Customer Support Specialist",
    "company": "Happyrobot.ai",
@@ -46,13 +25,13 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "09 Oct 2026",
    "why": [
     "worldwide",
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Tier III Service Desk Engineer",
@@ -67,12 +46,12 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 2,
+   "age_days": 3,
    "posted_human": "07 Oct 2026",
    "why": [
     "worldwide"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Billing Support Analyst - Philippines",
@@ -175,80 +154,6 @@
     "anywhere"
    ],
    "is_new": false
-  },
-  {
-   "title": "Support Engineer (EMEA - Weekends)",
-   "company": "Supabase",
-   "location": "EMEA",
-   "url": "https://jobicy.com/jobs/152811-support-engineer-emea-weekends",
-   "posted": "2026-10-09T02:55:09+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "0dd219ce41e5",
-   "verdict": "May include your region",
-   "rank": 2,
-   "sponsors": false,
-   "matched_on": "support engineer",
-   "age_days": 0,
-   "posted_human": "09 Oct 2026",
-   "why": [
-    "emea"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Werkstudent IT Support (m/w/d)",
-   "company": "Auxmoney Gmbh",
-   "location": "D\u00fcsseldorf",
-   "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/werkstudent-it-support-dusseldorf-135326",
-   "posted": "2026-10-09T05:09:05",
-   "employment": "Student, Working student, Part time",
-   "source": "Arbeitnow",
-   "id": "fa79bae03e50",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "it support",
-   "age_days": 0,
-   "posted_human": "09 Oct 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Technical Support Engineer",
-   "company": "incident.io",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/incidentio/technical-support-engineer-london-490627",
-   "posted": "2026-10-09T06:40:10",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "87538be59ce7",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "technical support",
-   "age_days": 0,
-   "posted_human": "09 Oct 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Support Engineer (AMER - Weekends)",
-   "company": "Supabase",
-   "location": "LATAM, Canada, USA",
-   "url": "https://jobicy.com/jobs/152807-support-engineer-amer-weekends",
-   "posted": "2026-10-09T02:55:04+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "2ad99aff5863",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "support engineer",
-   "age_days": 0,
-   "posted_human": "09 Oct 2026",
-   "why": [],
-   "is_new": true
   },
   {
    "title": "Live Technical Support Representative \u2014 Full-Time \u2014 $45,000 - $55,000/year + Benefits (Sat-Sun required) (Location: Remote, U.S.-based)",
