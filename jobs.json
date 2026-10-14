@@ -1,55 +1,34 @@
 {
- "updated": "13 Oct 2026, 09:07 UTC",
+ "updated": "14 Oct 2026, 07:16 UTC",
  "total": 11,
- "new_count": 4,
+ "new_count": 3,
  "source_log": [
-  "Remotive: 15 fetched",
+  "Remotive: 16 fetched",
   "RemoteOK: 99 fetched",
-  "Arbeitnow: 325 fetched",
+  "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 81 fetched",
+  "We Work Remotely: 79 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
-   "title": "Dedicated Support Engineer - London",
-   "company": "Openai",
-   "location": "London, UK",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/dedicated-support-engineer-london-221439",
-   "posted": "2026-10-13T05:41:02",
+   "title": "Customer Support Specialist",
+   "company": "ElevenLabs",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-customer-support-specialist-487193",
+   "posted": "2026-10-14T02:40:19",
    "employment": "Full Time",
    "source": "Arbeitnow",
-   "id": "633dd8caa6db",
+   "id": "f774fd0392b7",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "support engineer",
+   "matched_on": "support specialist",
    "age_days": 0,
-   "posted_human": "13 Oct 2026",
+   "posted_human": "14 Oct 2026",
    "why": [
     "global"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Technical Support Engineer",
-   "company": "EasyPost",
-   "location": "United States",
-   "url": "https://himalayas.app/companies/easypost/jobs/technical-support-engineer",
-   "posted": "2026-10-13T07:28:27",
-   "employment": "Full Time",
-   "source": "Himalayas",
-   "id": "91324a1d88e1",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "technical support",
-   "age_days": 0,
-   "posted_human": "13 Oct 2026",
-   "why": [
-    "global",
-    "emea"
    ],
    "is_new": true
   },
@@ -66,13 +45,13 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 1,
+   "age_days": 2,
    "posted_human": "12 Oct 2026",
    "why": [
     "worldwide",
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Tier III Service Desk Engineer",
@@ -87,7 +66,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 6,
+   "age_days": 7,
    "posted_human": "07 Oct 2026",
    "why": [
     "worldwide"
@@ -197,20 +176,38 @@
    "is_new": false
   },
   {
-   "title": "Senior IT Operations Engineer",
-   "company": "Voize",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/voize/senior-it-operations-engineer-berlin-187849",
-   "posted": "2026-10-13T02:40:12",
-   "employment": "Full Time",
+   "title": "Senior System Engineer Microsoft 365 und Automatisierung (m/w/d)",
+   "company": "Brl",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/brl/senior-system-engineer-microsoft-365-und-automatisierung-hamburg-76545",
+   "posted": "2026-10-14T05:09:33",
+   "employment": "Experienced, Permanent, Full time",
    "source": "Arbeitnow",
-   "id": "049283d82f12",
+   "id": "0bef9ef18f41",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "it operations",
+   "matched_on": "microsoft 365",
    "age_days": 0,
-   "posted_human": "13 Oct 2026",
+   "posted_human": "14 Oct 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Junior System Engineer Microsoft 365 und Automatisierung (m/w/d)",
+   "company": "Brl",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/brl/junior-system-engineer-microsoft-365-und-automatisierung-hamburg-184074",
+   "posted": "2026-10-14T05:09:33",
+   "employment": "Experienced, Permanent, Full time",
+   "source": "Arbeitnow",
+   "id": "60881b558385",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "microsoft 365",
+   "age_days": 0,
+   "posted_human": "14 Oct 2026",
    "why": [],
    "is_new": true
   },
