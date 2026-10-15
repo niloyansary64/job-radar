@@ -1,33 +1,55 @@
 {
- "updated": "14 Oct 2026, 07:16 UTC",
- "total": 11,
- "new_count": 3,
+ "updated": "15 Oct 2026, 07:08 UTC",
+ "total": 10,
+ "new_count": 2,
  "source_log": [
-  "Remotive: 16 fetched",
+  "Remotive: 15 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 79 fetched",
+  "We Work Remotely: 81 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
+   "title": "Dedicated Linux Desktop & Devices Support Engineer, Singapore",
+   "company": "Canonical",
+   "location": "APAC",
+   "url": "https://jobicy.com/jobs/145994-dedicated-linux-desktop-devices-support-engineer-singapore",
+   "posted": "2026-10-15T02:45:21+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "06f1dd63cb89",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "15 Oct 2026",
+   "why": [
+    "global",
+    "apac"
+   ],
+   "is_new": true
+  },
+  {
    "title": "Customer Support Specialist",
-   "company": "ElevenLabs",
-   "location": "Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-customer-support-specialist-487193",
-   "posted": "2026-10-14T02:40:19",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "f774fd0392b7",
+   "company": "Ultimate Marketing",
+   "location": "",
+   "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
+   "posted": "2026-10-14T01:31:49+00:00",
+   "employment": "",
+   "source": "RemoteOK",
+   "id": "4244427ff264",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "14 Oct 2026",
    "why": [
+    "worldwide",
     "global"
    ],
    "is_new": true
@@ -45,7 +67,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 2,
+   "age_days": 3,
    "posted_human": "12 Oct 2026",
    "why": [
     "worldwide",
@@ -66,7 +88,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 7,
+   "age_days": 8,
    "posted_human": "07 Oct 2026",
    "why": [
     "worldwide"
@@ -174,42 +196,6 @@
     "anywhere"
    ],
    "is_new": false
-  },
-  {
-   "title": "Senior System Engineer Microsoft 365 und Automatisierung (m/w/d)",
-   "company": "Brl",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/brl/senior-system-engineer-microsoft-365-und-automatisierung-hamburg-76545",
-   "posted": "2026-10-14T05:09:33",
-   "employment": "Experienced, Permanent, Full time",
-   "source": "Arbeitnow",
-   "id": "0bef9ef18f41",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "microsoft 365",
-   "age_days": 0,
-   "posted_human": "14 Oct 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Junior System Engineer Microsoft 365 und Automatisierung (m/w/d)",
-   "company": "Brl",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/brl/junior-system-engineer-microsoft-365-und-automatisierung-hamburg-184074",
-   "posted": "2026-10-14T05:09:33",
-   "employment": "Experienced, Permanent, Full time",
-   "source": "Arbeitnow",
-   "id": "60881b558385",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "microsoft 365",
-   "age_days": 0,
-   "posted_human": "14 Oct 2026",
-   "why": [],
-   "is_new": true
   },
   {
    "title": "Live Technical Support Representative \u2014 Full-Time \u2014 $45,000 - $55,000/year + Benefits (Sat-Sun required) (Location: Remote, U.S.-based)",
