@@ -1,9 +1,9 @@
 {
- "updated": "16 Oct 2026, 06:52 UTC",
- "total": 13,
- "new_count": 4,
+ "updated": "17 Oct 2026, 06:44 UTC",
+ "total": 12,
+ "new_count": 3,
  "source_log": [
-  "Remotive: 14 fetched",
+  "Remotive: 15 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
@@ -13,22 +13,42 @@
  ],
  "jobs": [
   {
-   "title": "Technical Support & Operations Engineer",
-   "company": "Quandela",
-   "location": "Massy, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/quandela/technical-support-operations-engineer-massy-2827",
-   "posted": "2026-10-15T22:20:19",
-   "employment": "Full time, associate",
+   "title": "Business Application Support Analyst",
+   "company": "Zilch",
+   "location": "Zilch UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/business-application-support-analyst-london-473176",
+   "posted": "2026-10-17T02:40:34",
+   "employment": "Full Time",
    "source": "Arbeitnow",
-   "id": "db69fdaebba3",
+   "id": "eeea1294ffcd",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "technical support",
+   "matched_on": "support analyst",
    "age_days": 0,
-   "posted_human": "15 Oct 2026",
+   "posted_human": "17 Oct 2026",
    "why": [
-    "global"
+    "anywhere"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Area Sales Manager Central Italy (Lazio and Abruzzo)",
+   "company": "Ajax Systems",
+   "location": "Italy",
+   "url": "https://jobicy.com/jobs/153351-area-sales-manager-central-italy-lazio-and-abruzzo",
+   "posted": "2026-10-17T02:58:12+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "c05d7c028ff0",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "entra",
+   "age_days": 0,
+   "posted_human": "17 Oct 2026",
+   "why": [
+    "worldwide"
    ],
    "is_new": true
   },
@@ -45,7 +65,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 2,
+   "age_days": 3,
    "posted_human": "14 Oct 2026",
    "why": [
     "worldwide",
@@ -66,7 +86,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 4,
+   "age_days": 5,
    "posted_human": "12 Oct 2026",
    "why": [
     "worldwide",
@@ -87,7 +107,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 9,
+   "age_days": 10,
    "posted_human": "07 Oct 2026",
    "why": [
     "worldwide"
@@ -113,7 +133,7 @@
     "anywhere",
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Billing Support Analyst - Philippines",
@@ -198,60 +218,20 @@
    "is_new": false
   },
   {
-   "title": "Head of Technical Support @ Koast.ai",
-   "company": "Koast.ai",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/koast-ai-head-of-technical-support-koast-ai",
-   "posted": "Wed, 16 Sep 2026 17:51:58 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "aa2b52857e49",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "technical support",
-   "age_days": null,
-   "posted_human": "Date not stated",
-   "why": [
-    "anywhere"
-   ],
-   "is_new": false
-  },
-  {
-   "title": "Support Engineer - Last Mile Delivery (f/m/d)",
-   "company": "Decathlontechnology",
-   "location": "Lille, Upline, Nord",
-   "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/support-engineer-last-mile-delivery-lille-upline-nord-4609",
-   "posted": "2026-10-15T17:55:18",
-   "employment": "",
-   "source": "Arbeitnow",
-   "id": "648ced796977",
-   "verdict": "May include your region",
-   "rank": 2,
-   "sponsors": false,
-   "matched_on": "support engineer",
-   "age_days": 0,
-   "posted_human": "15 Oct 2026",
-   "why": [
-    "apac"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "IT Administrator",
-   "company": "Kalshi",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/150748-it-administrator",
-   "posted": "2026-10-16T02:50:04+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "8a3dd803f888",
+   "title": "Open Call - Soil Carbon Field Tech (Contract - Central US based)",
+   "company": "Yardstick",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/yardstick/jobs/open-call-soil-carbon-field-tech-contract-central-us-based-4803592209",
+   "posted": "2026-10-17T06:29:47",
+   "employment": "Contractor",
+   "source": "Himalayas",
+   "id": "6967f50a8883",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "it administrator",
+   "matched_on": "entra",
    "age_days": 0,
-   "posted_human": "16 Oct 2026",
+   "posted_human": "17 Oct 2026",
    "why": [],
    "is_new": true
   },
