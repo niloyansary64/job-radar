@@ -1,9 +1,9 @@
 {
- "updated": "18 Oct 2026, 07:04 UTC",
- "total": 12,
- "new_count": 3,
+ "updated": "19 Oct 2026, 07:29 UTC",
+ "total": 15,
+ "new_count": 4,
  "source_log": [
-  "Remotive: 13 fetched",
+  "Remotive: 12 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
@@ -25,12 +25,12 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it operations",
-   "age_days": 1,
+   "age_days": 2,
    "posted_human": "16 Oct 2026",
    "why": [
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Customer Support Specialist",
@@ -45,7 +45,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 4,
+   "age_days": 5,
    "posted_human": "14 Oct 2026",
    "why": [
     "worldwide",
@@ -66,7 +66,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 6,
+   "age_days": 7,
    "posted_human": "12 Oct 2026",
    "why": [
     "worldwide",
@@ -87,12 +87,34 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 11,
+   "age_days": 12,
    "posted_human": "07 Oct 2026",
    "why": [
     "worldwide"
    ],
    "is_new": false
+  },
+  {
+   "title": "Enterprise Support Engineer",
+   "company": "PlanetScale",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer",
+   "posted": "Sun, 18 Oct 2026 07:30:58 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "8003eeba5319",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "worldwide",
+    "anywhere",
+    "apac"
+   ],
+   "is_new": true
   },
   {
    "title": "IT Support Specialist",
@@ -198,39 +220,83 @@
    "is_new": false
   },
   {
-   "title": "IT Administrator \u2013 Working student (m/f/d) - Frankfurt am Main (hybrid)",
-   "company": "Lissi GmbH",
-   "location": "Frankfurt",
-   "url": "https://www.arbeitnow.com/jobs/companies/lissi-gmbh/it-administrator-working-student-frankfurt-am-main-hybrid-495748",
-   "posted": "2026-10-18T05:13:13",
-   "employment": "Student, Intern, Part time",
+   "title": "Senior Regional Services Partner - EMEA Central",
+   "company": "Elastic",
+   "location": "",
+   "url": "https://www.arbeitnow.com/jobs/companies/elastic/senior-regional-services-partner-emea-central-373909",
+   "posted": "2026-10-18T23:55:21",
+   "employment": "",
    "source": "Arbeitnow",
-   "id": "62c84b390b3a",
+   "id": "cc34c05c1443",
+   "verdict": "May include your region",
+   "rank": 2,
+   "sponsors": false,
+   "matched_on": "entra",
+   "age_days": 0,
+   "posted_human": "18 Oct 2026",
+   "why": [
+    "emea"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Ing\u00e9nieur s\u00e9curit\u00e9 Endpoint / poste de travail",
+   "company": "UNEAT",
+   "location": "Clermont-Ferrand",
+   "url": "https://www.arbeitnow.fr/jobs/companies/uneat/ingenieur-securite-endpoint-poste-de-travail-clermont-ferrand-240087",
+   "posted": "2026-10-18T20:00:50",
+   "employment": "Cdi - contrat \u00e0 dur\u00e9e ind\u00e9termin\u00e9e, professionnel / exp\u00e9riment\u00e9",
+   "source": "Arbeitnow",
+   "id": "129ab2ddfe7e",
+   "verdict": "May include your region",
+   "rank": 2,
+   "sponsors": false,
+   "matched_on": "endpoint",
+   "age_days": 0,
+   "posted_human": "18 Oct 2026",
+   "why": [
+    "apac"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Desktop Support Specialist",
+   "company": "H-Tech Supports",
+   "location": "Lyon",
+   "url": "https://www.arbeitnow.fr/jobs/companies/h-tech-supports/desktop-support-specialist-lyon-80028",
+   "posted": "2026-10-18T20:00:44",
+   "employment": "Self-employed/freelance (auto-entrepreneur/ind\u00e9pendant), freelance, professional / experienced",
+   "source": "Arbeitnow",
+   "id": "c5416faaadf2",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "it administrator",
+   "matched_on": "desktop support",
    "age_days": 0,
    "posted_human": "18 Oct 2026",
    "why": [],
    "is_new": true
   },
   {
-   "title": "GTM Systems Administrator",
-   "company": "dscout",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/155571-gtm-systems-administrator",
-   "posted": "2026-10-17T07:48:31+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "d62677044edb",
-   "verdict": "Location unclear",
-   "rank": 3,
+   "title": "Support Analyst",
+   "company": "Open Sky Group",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/open-sky-group/jobs/support-analyst?utm_source=api",
+   "posted": "2026-10-19T06:59:32",
+   "employment": "Full Time",
+   "source": "Himalayas",
+   "id": "24b62a2594c3",
+   "verdict": "Likely restricted",
+   "rank": 4,
    "sponsors": false,
-   "matched_on": "systems administrator",
+   "matched_on": "support analyst",
    "age_days": 0,
-   "posted_human": "17 Oct 2026",
-   "why": [],
+   "posted_human": "19 Oct 2026",
+   "why": [
+    "anywhere",
+    "global",
+    "authorized to work in the united states"
+   ],
    "is_new": true
   },
   {
