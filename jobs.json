@@ -1,34 +1,53 @@
 {
- "updated": "20 Oct 2026, 07:18 UTC",
- "total": 15,
+ "updated": "21 Oct 2026, 07:16 UTC",
+ "total": 17,
  "new_count": 4,
  "source_log": [
-  "Remotive: 12 fetched",
+  "Remotive: 10 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 92 fetched",
+  "We Work Remotely: 93 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
-   "title": "Associate Linux Support Engineer",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "url": "https://jobicy.com/jobs/151014-associate-linux-support-engineer",
-   "posted": "2026-10-20T03:25:16+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "f780d5965595",
+   "title": "System Administrator",
+   "company": "Skynrg",
+   "location": "Amsterdam",
+   "url": "https://www.arbeitnow.nl/jobs/companies/skynrg/system-administrator-amsterdam-80854",
+   "posted": "2026-10-20T17:40:43",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "4f17cf7ed033",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "support engineer",
+   "matched_on": "system administrator",
    "age_days": 0,
    "posted_human": "20 Oct 2026",
    "why": [
-    "anywhere",
+    "global"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Manager, Mid Market (Central)",
+   "company": "Samsara",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/samsara/jobs/manager-mid-market-central?utm_source=api",
+   "posted": "2026-10-21T06:39:12",
+   "employment": "Full Time",
+   "source": "Himalayas",
+   "id": "6667e8d9e78c",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "entra",
+   "age_days": 0,
+   "posted_human": "21 Oct 2026",
+   "why": [
     "global"
    ],
    "is_new": true
@@ -46,7 +65,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it operations",
-   "age_days": 3,
+   "age_days": 4,
    "posted_human": "16 Oct 2026",
    "why": [
     "global"
@@ -66,7 +85,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 6,
+   "age_days": 7,
    "posted_human": "14 Oct 2026",
    "why": [
     "worldwide",
@@ -87,7 +106,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 8,
+   "age_days": 9,
    "posted_human": "12 Oct 2026",
    "why": [
     "worldwide",
@@ -108,7 +127,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 13,
+   "age_days": 14,
    "posted_human": "07 Oct 2026",
    "why": [
     "worldwide"
@@ -155,7 +174,7 @@
    "why": [
     "anywhere"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Senior Technical Support Engineer",
@@ -175,7 +194,7 @@
    "why": [
     "anywhere"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "IT Support Specialist",
@@ -281,14 +300,32 @@
    "is_new": false
   },
   {
-   "title": "Named Technical Support Engineer",
-   "company": "Roboflow",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/153634-named-technical-support-engineer",
-   "posted": "2026-10-20T03:25:21+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "e3f207a1da6e",
+   "title": "Network Customer Support Engineer",
+   "company": "Point One Navigation",
+   "location": "Zurich",
+   "url": "https://www.arbeitnow.ch/jobs/companies/point-one-navigation/network-customer-support-engineer-zurich-416749",
+   "posted": "2026-10-20T17:40:44",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "0cb5f355b4bf",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "20 Oct 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "First Line Technical Support Specialist (Dutch Speaking)",
+   "company": "Rentman",
+   "location": "Utrecht",
+   "url": "https://www.arbeitnow.nl/jobs/companies/rentman/first-line-technical-support-specialist-dutch-speaking-utrecht-313198",
+   "posted": "2026-10-20T17:40:43",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "6a46884bb5db",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
