@@ -1,54 +1,56 @@
 {
- "updated": "21 Oct 2026, 07:16 UTC",
- "total": 17,
- "new_count": 4,
+ "updated": "22 Oct 2026, 07:18 UTC",
+ "total": 20,
+ "new_count": 6,
  "source_log": [
   "Remotive: 10 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 93 fetched",
+  "We Work Remotely: 91 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
-   "title": "System Administrator",
-   "company": "Skynrg",
-   "location": "Amsterdam",
-   "url": "https://www.arbeitnow.nl/jobs/companies/skynrg/system-administrator-amsterdam-80854",
-   "posted": "2026-10-20T17:40:43",
-   "employment": "Full Time",
+   "title": "Senior Technical Support Specialist (m/f/x)",
+   "company": "commercetools",
+   "location": "M\u00fcnchen, Bayern",
+   "url": "https://www.arbeitnow.com/jobs/companies/commercetools/senior-technical-support-specialist-munchen-bayern-259886",
+   "posted": "2026-10-22T02:55:14",
+   "employment": "",
    "source": "Arbeitnow",
-   "id": "4f17cf7ed033",
+   "id": "f29f0fdce9dc",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "system administrator",
+   "matched_on": "technical support",
    "age_days": 0,
-   "posted_human": "20 Oct 2026",
+   "posted_human": "22 Oct 2026",
    "why": [
-    "global"
+    "global",
+    "apac"
    ],
    "is_new": true
   },
   {
-   "title": "Manager, Mid Market (Central)",
-   "company": "Samsara",
-   "location": "United States",
-   "url": "https://himalayas.app/companies/samsara/jobs/manager-mid-market-central?utm_source=api",
-   "posted": "2026-10-21T06:39:12",
-   "employment": "Full Time",
-   "source": "Himalayas",
-   "id": "6667e8d9e78c",
+   "title": "Product Support Engineer - APAC",
+   "company": "Ashby",
+   "location": "Australia, Japan, New Zealand, Singapore, South Korea",
+   "url": "https://jobicy.com/jobs/156252-product-support-engineer-apac",
+   "posted": "2026-10-21T18:05:09+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "333dad8e9eff",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "entra",
+   "matched_on": "support engineer",
    "age_days": 0,
    "posted_human": "21 Oct 2026",
    "why": [
-    "global"
+    "global",
+    "apac"
    ],
    "is_new": true
   },
@@ -65,7 +67,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it operations",
-   "age_days": 4,
+   "age_days": 5,
    "posted_human": "16 Oct 2026",
    "why": [
     "global"
@@ -85,7 +87,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 7,
+   "age_days": 8,
    "posted_human": "14 Oct 2026",
    "why": [
     "worldwide",
@@ -106,7 +108,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 9,
+   "age_days": 10,
    "posted_human": "12 Oct 2026",
    "why": [
     "worldwide",
@@ -127,7 +129,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 14,
+   "age_days": 15,
    "posted_human": "07 Oct 2026",
    "why": [
     "worldwide"
@@ -169,26 +171,6 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": null,
-   "posted_human": "Date not stated",
-   "why": [
-    "anywhere"
-   ],
-   "is_new": false
-  },
-  {
-   "title": "Senior Technical Support Engineer",
-   "company": "Alloy",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/alloy-senior-technical-support-engineer",
-   "posted": "Mon, 19 Oct 2026 07:31:13 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "dbe75fe6bdbe",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "technical support",
    "age_days": null,
    "posted_human": "Date not stated",
    "why": [
@@ -300,6 +282,80 @@
    "is_new": false
   },
   {
+   "title": "Database Support Engineer (Japanese Speaking)",
+   "company": "Supabase",
+   "location": "APAC",
+   "url": "https://jobicy.com/jobs/156249-database-support-engineer-japanese-speaking",
+   "posted": "2026-10-21T18:05:10+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "c18657815582",
+   "verdict": "May include your region",
+   "rank": 2,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "21 Oct 2026",
+   "why": [
+    "apac"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Director Technical Support & Field Service",
+   "company": "Sereact GmbH",
+   "location": "Stuttgart Schockenriedstr. 17",
+   "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/director-technical-support-field-service-stuttgart-182271",
+   "posted": "2026-10-21T17:40:16",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "35d75a18580d",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": 0,
+   "posted_human": "21 Oct 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "IT Support Specialist (f/m/d)",
+   "company": "Zeal Network",
+   "location": "Norwich, United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/it-support-specialist-norwich-476721",
+   "posted": "2026-10-21T23:40:16",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "2dace9d5aea0",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "it support",
+   "age_days": 0,
+   "posted_human": "21 Oct 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "IT Operations Manager",
+   "company": "Cordance",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/156233-it-operations-manager",
+   "posted": "2026-10-21T18:01:37+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "47f062e615e7",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "it operations",
+   "age_days": 0,
+   "posted_human": "21 Oct 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
    "title": "Network Customer Support Engineer",
    "company": "Point One Navigation",
    "location": "Zurich",
@@ -312,10 +368,10 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support engineer",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "20 Oct 2026",
    "why": [],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "First Line Technical Support Specialist (Dutch Speaking)",
@@ -330,10 +386,10 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "technical support",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "20 Oct 2026",
    "why": [],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Live Technical Support Representative \u2014 Full-Time \u2014 $45,000 - $55,000/year + Benefits (Sat-Sun required) (Location: Remote, U.S.-based)",
