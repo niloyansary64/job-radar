@@ -1,80 +1,17 @@
 {
- "updated": "24 Oct 2026, 07:00 UTC",
- "total": 19,
- "new_count": 8,
+ "updated": "25 Oct 2026, 07:24 UTC",
+ "total": 16,
+ "new_count": 3,
  "source_log": [
-  "Remotive: 9 fetched",
+  "Remotive: 10 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 95 fetched",
+  "We Work Remotely: 94 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
-  {
-   "title": "Account Director, Central Banks & Regulators (EMEA)",
-   "company": "TRM Labs",
-   "location": "EMEA",
-   "url": "https://www.arbeitnow.com/jobs/companies/trm-labs/account-director-central-banks-regulators-emea-365502",
-   "posted": "2026-10-23T20:40:26",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "12f3c600fd51",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "entra",
-   "age_days": 0,
-   "posted_human": "23 Oct 2026",
-   "why": [
-    "worldwide",
-    "emea"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Account Director, Private Sector (CEE & Central Asia)",
-   "company": "TRM Labs",
-   "location": "EMEA",
-   "url": "https://www.arbeitnow.com/jobs/companies/trm-labs/account-director-private-sector-cee-central-asia-emea-182772",
-   "posted": "2026-10-23T20:40:26",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "851e2c654496",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "entra",
-   "age_days": 0,
-   "posted_human": "23 Oct 2026",
-   "why": [
-    "worldwide",
-    "asia",
-    "emea"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Senior Network Administrator",
-   "company": "Pella Windows & Doors",
-   "location": "United States",
-   "url": "https://himalayas.app/companies/pella-windows-doors/jobs/senior-network-administrator?utm_source=api",
-   "posted": "2026-10-24T06:38:46",
-   "employment": "Full Time",
-   "source": "Himalayas",
-   "id": "a6dfb9b8d7a9",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "network administrator",
-   "age_days": 0,
-   "posted_human": "24 Oct 2026",
-   "why": [
-    "global"
-   ],
-   "is_new": true
-  },
   {
    "title": "Director of Product Management and IT Operations",
    "company": "Self Bill Pro",
@@ -88,7 +25,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it operations",
-   "age_days": 7,
+   "age_days": 8,
    "posted_human": "16 Oct 2026",
    "why": [
     "global"
@@ -108,7 +45,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 10,
+   "age_days": 11,
    "posted_human": "14 Oct 2026",
    "why": [
     "worldwide",
@@ -129,7 +66,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 12,
+   "age_days": 13,
    "posted_human": "12 Oct 2026",
    "why": [
     "worldwide",
@@ -150,7 +87,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 17,
+   "age_days": 18,
    "posted_human": "07 Oct 2026",
    "why": [
     "worldwide"
@@ -282,58 +219,58 @@
    "is_new": false
   },
   {
-   "title": "IT Operations Lead - Banking",
-   "company": "Eggai",
-   "location": "France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/eggai/it-operations-lead-banking-france-442138",
-   "posted": "2026-10-23T17:40:18",
+   "title": "Technical Support Engineer (m/f/d)",
+   "company": "Sereact GmbH",
+   "location": "Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/technical-support-engineer-germany-188563",
+   "posted": "2026-10-24T23:40:12",
    "employment": "Full Time",
    "source": "Arbeitnow",
-   "id": "3f67c9fe2f99",
+   "id": "27fb7043a59b",
    "verdict": "May include your region",
    "rank": 2,
    "sponsors": false,
-   "matched_on": "it operations",
+   "matched_on": "technical support",
    "age_days": 0,
-   "posted_human": "23 Oct 2026",
+   "posted_human": "24 Oct 2026",
    "why": [
     "apac"
    ],
    "is_new": true
   },
   {
-   "title": "Systemadministrator (m/w/d) - Microsoft 365 & Windows Server",
-   "company": "Deeken.Technology GmbH",
-   "location": "Emstek",
-   "url": "https://www.arbeitnow.com/jobs/companies/deekentechnology-gmbh/systemadministrator-microsoft-365-windows-server-emstek-257734",
-   "posted": "2026-10-24T01:17:19",
-   "employment": "Unbefristeter arbeitsvertrag, berufserfahren",
+   "title": "Director Technical Support & Field Service",
+   "company": "Sereact GmbH",
+   "location": "Stuttgart Schockenriedstr. 17",
+   "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/director-technical-support-field-service-stuttgart-370872",
+   "posted": "2026-10-24T23:40:12",
+   "employment": "Full Time",
    "source": "Arbeitnow",
-   "id": "d873954834dc",
+   "id": "35d75a18580d",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "microsoft 365",
+   "matched_on": "technical support",
    "age_days": 0,
    "posted_human": "24 Oct 2026",
    "why": [],
    "is_new": true
   },
   {
-   "title": "M365 & Cloud Consultant 80-100% (w/m/d)",
-   "company": "p3b AG",
-   "location": "Bern",
-   "url": "https://www.arbeitnow.ch/jobs/companies/p3b-ag/m365-cloud-consultant-80-100-bern-138202",
-   "posted": "2026-10-23T10:01:30",
-   "employment": "Unbefristeter arbeitsvertrag",
+   "title": "Senior AI Support Engineer (Paris)",
+   "company": "Dust",
+   "location": "Paris",
+   "url": "https://www.arbeitnow.fr/jobs/companies/dust/senior-ai-support-engineer-paris-325847",
+   "posted": "2026-10-25T03:40:14",
+   "employment": "Full Time",
    "source": "Arbeitnow",
-   "id": "8c72db7589b2",
+   "id": "b4da30a7434f",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "m365",
+   "matched_on": "support engineer",
    "age_days": 0,
-   "posted_human": "23 Oct 2026",
+   "posted_human": "25 Oct 2026",
    "why": [],
    "is_new": true
   },
@@ -350,10 +287,10 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support engineer",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "23 Oct 2026",
    "why": [],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Travel Support Specialist",
@@ -368,10 +305,10 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 1,
+   "age_days": 2,
    "posted_human": "23 Oct 2026",
    "why": [],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Live Technical Support Representative \u2014 Full-Time \u2014 $45,000 - $55,000/year + Benefits (Sat-Sun required) (Location: Remote, U.S.-based)",
