@@ -1,7 +1,7 @@
 {
- "updated": "26 Oct 2026, 07:33 UTC",
- "total": 21,
- "new_count": 9,
+ "updated": "27 Oct 2026, 07:30 UTC",
+ "total": 18,
+ "new_count": 4,
  "source_log": [
   "Remotive: 10 fetched",
   "RemoteOK: 99 fetched",
@@ -12,46 +12,6 @@
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
-  {
-   "title": "Senior Systems Administrator (Linux)",
-   "company": "Bluestaquk",
-   "location": "Lincoln / Lincolnshire",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/bluestaquk/senior-systems-administrator-linux-lincoln-lincolnshire-209128",
-   "posted": "2026-10-25T15:55:21",
-   "employment": "",
-   "source": "Arbeitnow",
-   "id": "b31f43fdb24f",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "systems administrator",
-   "age_days": 0,
-   "posted_human": "25 Oct 2026",
-   "why": [
-    "global"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "IT Support & Cloud Specialist",
-   "company": "AV Werving & Selectie",
-   "location": "Dordrecht",
-   "url": "https://www.arbeitnow.nl/jobs/companies/av-werving-selectie/it-support-cloud-specialist-dordrecht-338823",
-   "posted": "2026-10-25T09:31:01",
-   "employment": "Vast dienstverband (onbepaalde tijd), professional / ervaren",
-   "source": "Arbeitnow",
-   "id": "0a1b65eb0c87",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "it support",
-   "age_days": 0,
-   "posted_human": "25 Oct 2026",
-   "why": [
-    "global"
-   ],
-   "is_new": true
-  },
   {
    "title": "Director of Product Management and IT Operations",
    "company": "Self Bill Pro",
@@ -65,7 +25,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it operations",
-   "age_days": 9,
+   "age_days": 10,
    "posted_human": "16 Oct 2026",
    "why": [
     "global"
@@ -85,7 +45,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 12,
+   "age_days": 13,
    "posted_human": "14 Oct 2026",
    "why": [
     "worldwide",
@@ -106,7 +66,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 14,
+   "age_days": 15,
    "posted_human": "12 Oct 2026",
    "why": [
     "worldwide",
@@ -127,12 +87,32 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 19,
+   "age_days": 20,
    "posted_human": "07 Oct 2026",
    "why": [
     "worldwide"
    ],
    "is_new": false
+  },
+  {
+   "title": "MSP Mac Help Desk Guru (work from home)",
+   "company": "Ignition, Inc.",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/ignition-inc-msp-mac-help-desk-guru-work-from-home",
+   "posted": "Tue, 27 Oct 2026 03:42:29 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "8e48b7ed135f",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "help desk",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere"
+   ],
+   "is_new": true
   },
   {
    "title": "Enterprise Support Engineer",
@@ -174,7 +154,7 @@
    "why": [
     "anywhere"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Operations Support Specialist",
@@ -279,60 +259,58 @@
    "is_new": false
   },
   {
-   "title": "Database Support Engineer (EMEA)",
-   "company": "Supabase",
-   "location": "EMEA",
-   "url": "https://jobicy.com/jobs/154079-database-support-engineer-emea",
-   "posted": "2026-10-26T04:20:17+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "eba03dda1546",
+   "title": "Production Support Engineer II - UK",
+   "company": "Marqeta Inc",
+   "location": "London Office",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/marqeta-inc/production-support-engineer-ii-uk-london-60427",
+   "posted": "2026-10-27T00:40:11",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "598f174b8325",
    "verdict": "May include your region",
    "rank": 2,
    "sponsors": false,
    "matched_on": "support engineer",
    "age_days": 0,
-   "posted_human": "26 Oct 2026",
-   "why": [
-    "emea"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Database Support Engineer (APAC)",
-   "company": "Supabase",
-   "location": "APAC",
-   "url": "https://jobicy.com/jobs/154081-database-support-engineer-apac",
-   "posted": "2026-10-26T04:15:21+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "4216322d9dce",
-   "verdict": "May include your region",
-   "rank": 2,
-   "sponsors": false,
-   "matched_on": "support engineer",
-   "age_days": 0,
-   "posted_human": "26 Oct 2026",
+   "posted_human": "27 Oct 2026",
    "why": [
     "apac"
    ],
    "is_new": true
   },
   {
-   "title": "Technical Support Engineer",
-   "company": "Plaid",
-   "location": "London Office",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/remote-technical-support-engineer-22092",
-   "posted": "2026-10-25T21:40:32",
-   "employment": "Full Time",
+   "title": "Senior Identity Security Consultant Microsoft Entra",
+   "company": "cyberunity AG",
+   "location": "Basel",
+   "url": "https://www.arbeitnow.ch/jobs/companies/cyberunity-ag/senior-identity-security-consultant-microsoft-entra-basel-411767",
+   "posted": "2026-10-26T08:00:44",
+   "employment": "Unbefristeter arbeitsvertrag, berufserfahren",
    "source": "Arbeitnow",
-   "id": "575963521093",
+   "id": "001af97cff6b",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "technical support",
+   "matched_on": "entra",
    "age_days": 0,
-   "posted_human": "25 Oct 2026",
+   "posted_human": "26 Oct 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "ERP System Administrator (Acumatica)",
+   "company": "Alimentiv",
+   "location": "Canada",
+   "url": "https://jobicy.com/jobs/151608-erp-system-administrator-acumatica",
+   "posted": "2026-10-27T03:35:20+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "bf7116283782",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "system administrator",
+   "age_days": 0,
+   "posted_human": "27 Oct 2026",
    "why": [],
    "is_new": true
   },
@@ -349,46 +327,10 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "technical support",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "25 Oct 2026",
    "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Salesforce nonprofit support consultant",
-   "company": "CISIS Goede Doelen Consultancy",
-   "location": "Zaandijk",
-   "url": "https://www.arbeitnow.nl/jobs/companies/cisis-goede-doelen-consultancy/salesforce-nonprofit-support-consultant-zaandijk-465104",
-   "posted": "2026-10-25T09:31:00",
-   "employment": "Vast dienstverband (onbepaalde tijd), professional / ervaren",
-   "source": "Arbeitnow",
-   "id": "1cab3a92af4f",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "it support",
-   "age_days": 0,
-   "posted_human": "25 Oct 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Database Support Engineer (AMER)",
-   "company": "Supabase",
-   "location": "LATAM, Canada, USA",
-   "url": "https://jobicy.com/jobs/154076-database-support-engineer-amer",
-   "posted": "2026-10-26T04:15:18+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "663f559c4947",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "support engineer",
-   "age_days": 0,
-   "posted_human": "26 Oct 2026",
-   "why": [],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Travel Support Specialist",
@@ -403,7 +345,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 3,
+   "age_days": 4,
    "posted_human": "23 Oct 2026",
    "why": [],
    "is_new": false
