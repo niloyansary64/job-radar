@@ -1,17 +1,79 @@
 {
- "updated": "27 Oct 2026, 07:30 UTC",
- "total": 18,
- "new_count": 4,
+ "updated": "28 Oct 2026, 08:03 UTC",
+ "total": 24,
+ "new_count": 9,
  "source_log": [
-  "Remotive: 10 fetched",
+  "Remotive: 11 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 98 fetched",
+  "We Work Remotely: 95 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
+  {
+   "title": "Technical Support Specialist , UK",
+   "company": "Nash",
+   "location": "UK",
+   "url": "https://jobicy.com/jobs/151857-technical-support-specialist-uk",
+   "posted": "2026-10-28T03:30:05+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "5cdf6bc233bf",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": 0,
+   "posted_human": "28 Oct 2026",
+   "why": [
+    "global"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Dedicated Linux Desktop & Devices Support Engineer, Singapore",
+   "company": "Canonical",
+   "location": "APAC",
+   "url": "https://jobicy.com/jobs/151891-dedicated-linux-desktop-devices-support-engineer-singapore-2",
+   "posted": "2026-10-28T03:25:15+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "06f1dd63cb89",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "28 Oct 2026",
+   "why": [
+    "global",
+    "apac"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Cloud Support Engineer",
+   "company": "Canonical",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/151889-cloud-support-engineer-2",
+   "posted": "2026-10-28T03:25:13+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "7923d68e0ee4",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "28 Oct 2026",
+   "why": [
+    "anywhere",
+    "global"
+   ],
+   "is_new": true
+  },
   {
    "title": "Director of Product Management and IT Operations",
    "company": "Self Bill Pro",
@@ -25,7 +87,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it operations",
-   "age_days": 10,
+   "age_days": 11,
    "posted_human": "16 Oct 2026",
    "why": [
     "global"
@@ -45,7 +107,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 13,
+   "age_days": 14,
    "posted_human": "14 Oct 2026",
    "why": [
     "worldwide",
@@ -66,7 +128,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 15,
+   "age_days": 16,
    "posted_human": "12 Oct 2026",
    "why": [
     "worldwide",
@@ -87,7 +149,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 20,
+   "age_days": 21,
    "posted_human": "07 Oct 2026",
    "why": [
     "worldwide"
@@ -112,7 +174,7 @@
    "why": [
     "anywhere"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Enterprise Support Engineer",
@@ -135,6 +197,27 @@
     "apac"
    ],
    "is_new": false
+  },
+  {
+   "title": "Technical Support Specialist",
+   "company": "Freshly Commerce",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1",
+   "posted": "Tue, 27 Oct 2026 16:45:57 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "5c85d9a0cb9f",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere",
+    "all timezones"
+   ],
+   "is_new": true
   },
   {
    "title": "Customer Support Specialist",
@@ -259,23 +342,95 @@
    "is_new": false
   },
   {
-   "title": "Production Support Engineer II - UK",
-   "company": "Marqeta Inc",
-   "location": "London Office",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/marqeta-inc/production-support-engineer-ii-uk-london-60427",
-   "posted": "2026-10-27T00:40:11",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "598f174b8325",
+   "title": "Product Support Specialist - Australia",
+   "company": "Ashby",
+   "location": "Australia",
+   "url": "https://jobicy.com/jobs/151882-product-support-specialist-australia",
+   "posted": "2026-10-28T03:19:31+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "314e8167de56",
    "verdict": "May include your region",
    "rank": 2,
    "sponsors": false,
-   "matched_on": "support engineer",
+   "matched_on": "support specialist",
    "age_days": 0,
-   "posted_human": "27 Oct 2026",
+   "posted_human": "28 Oct 2026",
    "why": [
     "apac"
    ],
+   "is_new": true
+  },
+  {
+   "title": "Real Estate Transaction Lead, Central",
+   "company": "Neko Health",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/neko-health/remote-real-estate-transaction-lead-central-430973",
+   "posted": "2026-10-28T06:40:14",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "ab02336682e6",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "entra",
+   "age_days": 0,
+   "posted_human": "28 Oct 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Service Desk/System Administrator",
+   "company": "Playson",
+   "location": "Ukraine",
+   "url": "https://jobicy.com/jobs/151895-service-desk-system-administrator",
+   "posted": "2026-10-28T03:25:16+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "cdb386a7e94e",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "service desk",
+   "age_days": 0,
+   "posted_human": "28 Oct 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Product Support Specialist - Americas",
+   "company": "Ashby",
+   "location": "Canada, USA",
+   "url": "https://jobicy.com/jobs/151886-product-support-specialist-americas",
+   "posted": "2026-10-28T03:19:33+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "86201008791c",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "support specialist",
+   "age_days": 0,
+   "posted_human": "28 Oct 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "System Administrator / IT Supporter (m/w/d)",
+   "company": "Gehrig Group AG",
+   "location": "Opfikon",
+   "url": "https://www.arbeitnow.ch/jobs/companies/gehrig-group-ag/system-administrator-it-supporter-opfikon-33539",
+   "posted": "2026-10-27T08:00:54",
+   "employment": "Unbefristeter arbeitsvertrag, berufserfahren",
+   "source": "Arbeitnow",
+   "id": "085cf2c5b73a",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "it support",
+   "age_days": 1,
+   "posted_human": "27 Oct 2026",
+   "why": [],
    "is_new": true
   },
   {
@@ -291,44 +446,8 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 0,
+   "age_days": 2,
    "posted_human": "26 Oct 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "ERP System Administrator (Acumatica)",
-   "company": "Alimentiv",
-   "location": "Canada",
-   "url": "https://jobicy.com/jobs/151608-erp-system-administrator-acumatica",
-   "posted": "2026-10-27T03:35:20+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "bf7116283782",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "system administrator",
-   "age_days": 0,
-   "posted_human": "27 Oct 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Technical Support Consultant",
-   "company": "Info Technology Supply Ltd",
-   "location": "Almere",
-   "url": "https://www.arbeitnow.nl/jobs/companies/info-technology-supply-ltd/technical-support-consultant-almere-80154",
-   "posted": "2026-10-25T09:31:05",
-   "employment": "professional / ervaren",
-   "source": "Arbeitnow",
-   "id": "b2d12d072856",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "technical support",
-   "age_days": 1,
-   "posted_human": "25 Oct 2026",
    "why": [],
    "is_new": false
   },
@@ -345,7 +464,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 4,
+   "age_days": 5,
    "posted_human": "23 Oct 2026",
    "why": [],
    "is_new": false
