@@ -1,35 +1,34 @@
 {
- "updated": "30 Oct 2026, 08:18 UTC",
- "total": 21,
- "new_count": 6,
+ "updated": "31 Oct 2026, 08:09 UTC",
+ "total": 22,
+ "new_count": 5,
  "source_log": [
   "Remotive: 12 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 108 fetched",
+  "We Work Remotely: 109 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
-   "title": "Product Support Engineer - EMEA",
-   "company": "How We Work & What We Value - Ashby",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/how-we-work-what-we-value-ashby/product-support-engineer-emea-united-kingdom-359638",
-   "posted": "2026-10-30T06:40:18",
+   "title": "Senior Systems Administrator",
+   "company": "Legrand",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/legrand/jobs/senior-systems-administrator?utm_source=api",
+   "posted": "2026-10-31T07:23:02",
    "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "7ad64c37e54b",
+   "source": "Himalayas",
+   "id": "9271bc4c0cb7",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "support engineer",
+   "matched_on": "systems administrator",
    "age_days": 0,
-   "posted_human": "30 Oct 2026",
+   "posted_human": "31 Oct 2026",
    "why": [
-    "global",
-    "emea"
+    "global"
    ],
    "is_new": true
   },
@@ -46,7 +45,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it operations",
-   "age_days": 13,
+   "age_days": 14,
    "posted_human": "16 Oct 2026",
    "why": [
     "global"
@@ -66,7 +65,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 16,
+   "age_days": 17,
    "posted_human": "14 Oct 2026",
    "why": [
     "worldwide",
@@ -87,7 +86,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 18,
+   "age_days": 19,
    "posted_human": "12 Oct 2026",
    "why": [
     "worldwide",
@@ -108,7 +107,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 23,
+   "age_days": 24,
    "posted_human": "07 Oct 2026",
    "why": [
     "worldwide"
@@ -134,7 +133,7 @@
     "anywhere",
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "MSP Mac Help Desk Guru (work from home)",
@@ -177,6 +176,26 @@
     "apac"
    ],
    "is_new": false
+  },
+  {
+   "title": "Technical Support Engineer, Triage & Discovery",
+   "company": "Alloy",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery",
+   "posted": "Sat, 31 Oct 2026 07:31:02 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "f31c943bf7a8",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere"
+   ],
+   "is_new": true
   },
   {
    "title": "Technical Support Specialist",
@@ -322,43 +341,57 @@
    "is_new": false
   },
   {
-   "title": "Support Engineer (EMEA)",
-   "company": "N8N",
-   "location": "Berlin Office",
-   "url": "https://www.arbeitnow.com/jobs/companies/n8n/support-engineer-emea-berlin-248246",
-   "posted": "2026-10-29T21:40:15",
-   "employment": "Full Time",
+   "title": "Head of IT Operations (m/w/d)",
+   "company": "GENO Broker",
+   "location": "Frankfurt am Main",
+   "url": "https://www.arbeitnow.com/jobs/companies/geno-broker/head-of-it-operations-frankfurt-am-main-423627",
+   "posted": "2026-10-30T20:30:52",
+   "employment": "Unbefristeter arbeitsvertrag, teamleitung",
    "source": "Arbeitnow",
-   "id": "be8073aa613a",
-   "verdict": "May include your region",
-   "rank": 2,
+   "id": "639c6546b21a",
+   "verdict": "Location unclear",
+   "rank": 3,
    "sponsors": false,
-   "matched_on": "support engineer",
+   "matched_on": "it operations",
    "age_days": 0,
-   "posted_human": "29 Oct 2026",
-   "why": [
-    "emea"
-   ],
+   "posted_human": "30 Oct 2026",
+   "why": [],
    "is_new": true
   },
   {
-   "title": "Support Engineer (EMEA)",
-   "company": "Supabase",
-   "location": "EMEA",
-   "url": "https://jobicy.com/jobs/152053-support-engineer-emea",
-   "posted": "2026-10-30T03:20:10+00:00",
+   "title": "System & Service Desk Manager 80-100%",
+   "company": "two.jobs",
+   "location": "Solothurn",
+   "url": "https://www.arbeitnow.ch/jobs/companies/twojobs/system-service-desk-manager-80-100-solothurn-321250",
+   "posted": "2026-10-30T16:47:29",
+   "employment": "Unbefristeter arbeitsvertrag",
+   "source": "Arbeitnow",
+   "id": "e28b998bd373",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "service desk",
+   "age_days": 0,
+   "posted_human": "30 Oct 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Senior Customer Support Engineer",
+   "company": "NetBox Labs",
+   "location": "Australia",
+   "url": "https://jobicy.com/jobs/152075-senior-customer-support-engineer-3",
+   "posted": "2026-10-31T03:39:11+00:00",
    "employment": "Full-Time",
    "source": "Jobicy",
-   "id": "723a81bde46b",
-   "verdict": "May include your region",
-   "rank": 2,
+   "id": "23821fb91247",
+   "verdict": "Location unclear",
+   "rank": 3,
    "sponsors": false,
    "matched_on": "support engineer",
    "age_days": 0,
-   "posted_human": "30 Oct 2026",
-   "why": [
-    "emea"
-   ],
+   "posted_human": "31 Oct 2026",
+   "why": [],
    "is_new": true
   },
   {
@@ -374,28 +407,10 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "30 Oct 2026",
    "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Bilingual Product Support Analyst (Canadian French)",
-   "company": "D2L",
-   "location": "Canada",
-   "url": "https://jobicy.com/jobs/151964-bilingual-product-support-analyst-canadian-french",
-   "posted": "2026-10-30T03:25:13+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "0ca92f2892b8",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "support analyst",
-   "age_days": 0,
-   "posted_human": "30 Oct 2026",
-   "why": [],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Travel Support Specialist",
@@ -410,7 +425,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 7,
+   "age_days": 8,
    "posted_human": "23 Oct 2026",
    "why": [],
    "is_new": false
