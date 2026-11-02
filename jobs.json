@@ -1,34 +1,36 @@
 {
- "updated": "01 Nov 2026, 08:54 UTC",
- "total": 24,
- "new_count": 5,
+ "updated": "02 Nov 2026, 09:02 UTC",
+ "total": 21,
+ "new_count": 2,
  "source_log": [
   "Remotive: 12 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 109 fetched",
+  "We Work Remotely: 111 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
-   "title": "Senior Technical Support Engineer",
-   "company": "Magnet Forensics",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/magnet-forensics/senior-technical-support-engineer-united-kingdom-71001",
-   "posted": "2026-11-01T03:07:52",
-   "employment": "Full-Time",
-   "source": "Arbeitnow",
-   "id": "ead2d985b4ea",
+   "title": "Amazon Connect Support Engineer",
+   "company": "Miratech",
+   "location": "Brazil",
+   "url": "https://himalayas.app/companies/miratech/jobs/amazon-connect-support-engineer-3300867401?utm_source=api",
+   "posted": "2026-11-02T08:31:53",
+   "employment": "Full Time",
+   "source": "Himalayas",
+   "id": "c9d292083c27",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "technical support",
+   "matched_on": "support engineer",
    "age_days": 0,
-   "posted_human": "01 Nov 2026",
+   "posted_human": "02 Nov 2026",
    "why": [
-    "global"
+    "anywhere",
+    "global",
+    "work from anywhere"
    ],
    "is_new": true
   },
@@ -45,14 +47,14 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it support",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "31 Oct 2026",
    "why": [
     "worldwide",
     "anywhere",
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Director of Product Management and IT Operations",
@@ -67,7 +69,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it operations",
-   "age_days": 15,
+   "age_days": 16,
    "posted_human": "16 Oct 2026",
    "why": [
     "global"
@@ -87,7 +89,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 18,
+   "age_days": 19,
    "posted_human": "14 Oct 2026",
    "why": [
     "worldwide",
@@ -108,7 +110,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 20,
+   "age_days": 21,
    "posted_human": "12 Oct 2026",
    "why": [
     "worldwide",
@@ -129,12 +131,32 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 25,
+   "age_days": 26,
    "posted_human": "07 Oct 2026",
    "why": [
     "worldwide"
    ],
    "is_new": false
+  },
+  {
+   "title": "Salesforce Business Systems Administrator",
+   "company": "Salesloft",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator",
+   "posted": "Mon, 02 Nov 2026 07:31:12 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "9a17d9de1b27",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "systems administrator",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere"
+   ],
+   "is_new": true
   },
   {
    "title": "Consumer Support Specialist (Weekend Shift, Sunday - Thursday)",
@@ -343,80 +365,6 @@
    "is_new": false
   },
   {
-   "title": "IT Support Specialist",
-   "company": "Webflow",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/webflow-it-support-specialist",
-   "posted": "Sat, 03 Oct 2026 07:31:06 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "a527b2fabded",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "it support",
-   "age_days": null,
-   "posted_human": "Date not stated",
-   "why": [
-    "anywhere"
-   ],
-   "is_new": false
-  },
-  {
-   "title": "CENTRALE LYON - Ing\u00e9nieur informatique / EDA \u2013 Qualification d\u2019outils, mod\u00e8les et IP",
-   "company": "CENTRALE LYON",
-   "location": "Ecully, Auvergne-Rh\u00f4ne-Alpes, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-ingenieur-informatique-eda-qualification-doutils-modeles-et-ip-ecully-274923",
-   "posted": "2026-11-01T00:31:16",
-   "employment": "Entry, fulltime fixed term",
-   "source": "Arbeitnow",
-   "id": "36d75ebffbb6",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "entra",
-   "age_days": 0,
-   "posted_human": "01 Nov 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "CENTRALE LYON - Post-Doctoral Position Ferroelectric-Based Ternary Computing: From Circuit Design to System-Level Integration Scientific Context",
-   "company": "CENTRALE LYON",
-   "location": "Ecully, Auvergne-Rh\u00f4ne-Alpes, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-post-doctoral-position-ferroelectric-based-ternary-computing-from-circuit-design-to-system-level-integration-scientific-context-ecull-308099",
-   "posted": "2026-11-01T00:31:16",
-   "employment": "Entry, fulltime fixed term",
-   "source": "Arbeitnow",
-   "id": "7bfaf1ff8982",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "entra",
-   "age_days": 0,
-   "posted_human": "01 Nov 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "IT Operations Engineer",
-   "company": "Roboflow",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/158282-it-operations-engineer",
-   "posted": "2026-11-01T04:32:04+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "933e1cc19a12",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "it operations",
-   "age_days": 0,
-   "posted_human": "01 Nov 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
    "title": "System & Service Desk Manager 80-100%",
    "company": "two.jobs",
    "location": "Solothurn",
@@ -429,7 +377,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 1,
+   "age_days": 2,
    "posted_human": "30 Oct 2026",
    "why": [],
    "is_new": false
@@ -447,7 +395,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 9,
+   "age_days": 10,
    "posted_human": "23 Oct 2026",
    "why": [],
    "is_new": false
@@ -470,7 +418,7 @@
    "why": [
     "canada only"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Live Technical Support Representative \u2014 Full-Time \u2014 $45,000 - $55,000/year + Benefits (Sat-Sun required) (Location: Remote, U.S.-based)",
