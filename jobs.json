@@ -1,6 +1,6 @@
 {
- "updated": "04 Nov 2026, 08:47 UTC",
- "total": 21,
+ "updated": "05 Nov 2026, 09:10 UTC",
+ "total": 23,
  "new_count": 5,
  "source_log": [
   "Remotive: 10 fetched",
@@ -13,43 +13,23 @@
  ],
  "jobs": [
   {
-   "title": "Senior Network Administrator (UK)",
-   "company": "Chaosindustries",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/chaosindustries/senior-network-administrator-uk-london-212088",
-   "posted": "2026-11-04T03:55:21",
-   "employment": "",
+   "title": "French Speaking Fitbit Customer Support Specialist - Work In Sofia, Bulgaria",
+   "company": "Patrique Mercier Recruitment Fr",
+   "location": "Switzerland",
+   "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-switzerland-469655",
+   "posted": "2026-11-04T12:20:13",
+   "employment": "Full time, entry",
    "source": "Arbeitnow",
-   "id": "5b353b8f6be4",
+   "id": "d0d4f6c796b2",
    "verdict": "Open to anywhere",
    "rank": 0.5,
    "sponsors": true,
-   "matched_on": "network administrator",
+   "matched_on": "support specialist",
    "age_days": 0,
    "posted_human": "04 Nov 2026",
    "why": [
     "global",
-    "relocation assistance"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Data Center IT Technician",
-   "company": "Nebius",
-   "location": "Newport",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/data-center-it-technician-newport-382707",
-   "posted": "2026-11-04T06:55:15",
-   "employment": "",
-   "source": "Arbeitnow",
-   "id": "10df1d21c1fb",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "it technician",
-   "age_days": 0,
-   "posted_human": "04 Nov 2026",
-   "why": [
-    "global"
+    "relocation package"
    ],
    "is_new": true
   },
@@ -66,7 +46,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it operations",
-   "age_days": 18,
+   "age_days": 19,
    "posted_human": "16 Oct 2026",
    "why": [
     "global"
@@ -86,7 +66,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 21,
+   "age_days": 22,
    "posted_human": "14 Oct 2026",
    "why": [
     "worldwide",
@@ -107,7 +87,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 28,
+   "age_days": 29,
    "posted_human": "07 Oct 2026",
    "why": [
     "worldwide"
@@ -321,6 +301,78 @@
    "is_new": false
   },
   {
+   "title": "IT Support Specialist L2 (f/m/x)",
+   "company": "Enpal",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/enpal/it-support-specialist-l2-berlin-368425",
+   "posted": "2026-11-05T00:40:12",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "da0e01be1aee",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "it support",
+   "age_days": 0,
+   "posted_human": "05 Nov 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Microsoft 365 & Azure Engineer",
+   "company": "NEXSOLVE AG",
+   "location": "Bern",
+   "url": "https://www.arbeitnow.ch/jobs/companies/nexsolve-ag/microsoft-365-azure-engineer-bern-442056",
+   "posted": "2026-11-04T10:01:08",
+   "employment": "Unbefristeter arbeitsvertrag, berufserfahren",
+   "source": "Arbeitnow",
+   "id": "97155330ed7f",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "microsoft 365",
+   "age_days": 0,
+   "posted_human": "04 Nov 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Developer Support Engineer",
+   "company": "Algolia",
+   "location": "Australia",
+   "url": "https://jobicy.com/jobs/159104-developer-support-engineer",
+   "posted": "2026-11-05T05:44:14+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "f43a1f3d34dd",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "05 Nov 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "L1 Support Engineer - Portuguese (Part-time)",
+   "company": "Instructure",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/159054-l1-support-engineer-portuguese-part-time",
+   "posted": "2026-11-05T04:45:27+00:00",
+   "employment": "Part-Time",
+   "source": "Jobicy",
+   "id": "dff68d2d0f90",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "05 Nov 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
    "title": "Senior DevOps Engineer \u2013 MS Entra ID / Azure 100%",
    "company": "Callista Group AG",
    "location": "Z\u00fcrich, Z\u00fcrich, Switzerland",
@@ -333,10 +385,10 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "04 Nov 2026",
    "why": [],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Senior ICT Architect \u2013 Enterprise Architecture / Kernbankentransformation 100 %",
@@ -351,28 +403,10 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "04 Nov 2026",
    "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Technical Support Engineer",
-   "company": "Kustomer",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/158090-technical-support-engineer-5",
-   "posted": "2026-11-04T03:43:04+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "914b55291805",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "technical support",
-   "age_days": 0,
-   "posted_human": "04 Nov 2026",
-   "why": [],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Travel Support Specialist",
@@ -387,7 +421,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 12,
+   "age_days": 13,
    "posted_human": "23 Oct 2026",
    "why": [],
    "is_new": false
