@@ -1,57 +1,56 @@
 {
- "updated": "09 Nov 2026, 09:23 UTC",
+ "updated": "10 Nov 2026, 09:27 UTC",
  "total": 20,
  "new_count": 5,
  "source_log": [
-  "Remotive: 13 fetched",
+  "Remotive: 12 fetched",
   "RemoteOK: 99 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 116 fetched",
+  "We Work Remotely: 114 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
-   "title": "Data Lead - Central Data Team",
-   "company": "YipitData",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/152751-data-lead-central-data-team",
-   "posted": "2026-11-09T03:10:22+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "603393482582",
+   "title": "IT Service Desk Engineer",
+   "company": "Market Cloud",
+   "location": "Eschborn",
+   "url": "https://www.arbeitnow.com/jobs/companies/market-cloud/it-service-desk-engineer-eschborn-136011",
+   "posted": "2026-11-10T09:01:05",
+   "employment": "Fixed-term contract (befristeter arbeitsvertrag), professional / experienced",
+   "source": "Arbeitnow",
+   "id": "1561aed9c038",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "entra",
+   "matched_on": "service desk",
    "age_days": 0,
-   "posted_human": "09 Nov 2026",
+   "posted_human": "10 Nov 2026",
    "why": [
-    "global",
-    "apac"
+    "global"
    ],
    "is_new": true
   },
   {
-   "title": "Support Specialist - Italian speaking",
-   "company": "Tebi",
-   "location": "Amsterdam",
-   "url": "https://www.arbeitnow.nl/jobs/companies/tebi/support-specialist-italian-speaking-amsterdam-432853",
-   "posted": "2026-11-07T09:40:17",
+   "title": "Senior Support Engineer, EU",
+   "company": "Sanity",
+   "location": "Remote in the UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/sanity/remote-senior-support-engineer-eu-3043",
+   "posted": "2026-11-10T06:40:16",
    "employment": "Full Time",
    "source": "Arbeitnow",
-   "id": "13be3255fe59",
+   "id": "b90cacfc1233",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": 1,
-   "posted_human": "07 Nov 2026",
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "10 Nov 2026",
    "why": [
     "global"
    ],
-   "is_new": false
+   "is_new": true
   },
   {
    "title": "Tier III Service Desk Engineer",
@@ -66,12 +65,12 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 2,
+   "age_days": 3,
    "posted_human": "07 Nov 2026",
    "why": [
     "worldwide"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Director of Product Management and IT Operations",
@@ -86,7 +85,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it operations",
-   "age_days": 23,
+   "age_days": 24,
    "posted_human": "16 Oct 2026",
    "why": [
     "global"
@@ -279,58 +278,58 @@
    "is_new": false
   },
   {
-   "title": "Stage - Trading Application Support Specialist - Finance de March\u00e9",
-   "company": "Horizontradingsolutions",
-   "location": "Paris, Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/horizontradingsolutions/stage-trading-application-support-specialist-finance-de-marche-paris-paris-117219",
-   "posted": "2026-11-08T15:55:27",
-   "employment": "",
-   "source": "Arbeitnow",
-   "id": "95dfe1e4169e",
+   "title": "Support Engineer (EMEA - Weekends)",
+   "company": "Supabase",
+   "location": "EMEA",
+   "url": "https://jobicy.com/jobs/152811-support-engineer-emea-weekends",
+   "posted": "2026-11-10T03:05:06+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "0dd219ce41e5",
    "verdict": "May include your region",
    "rank": 2,
    "sponsors": false,
-   "matched_on": "support specialist",
+   "matched_on": "support engineer",
    "age_days": 0,
-   "posted_human": "08 Nov 2026",
+   "posted_human": "10 Nov 2026",
    "why": [
-    "apac"
+    "emea"
    ],
    "is_new": true
   },
   {
-   "title": "Werkstudentenstelle - Technische Kundenbetreuung / IT Support",
-   "company": "Projektron GmbH",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/werkstudentenstelle-technische-kundenbetreuung-it-support-berlin-58194",
-   "posted": "2026-11-09T08:30:51",
-   "employment": "Werkstudent, working student",
-   "source": "Arbeitnow",
-   "id": "30b9d8d7fd3f",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "it support",
-   "age_days": 0,
-   "posted_human": "09 Nov 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Support Engineer, PAYGO",
-   "company": "Exa",
-   "location": "Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/exa/remote-support-engineer-paygo-317778",
-   "posted": "2026-11-09T03:40:30",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "f4b4fea168f6",
+   "title": "Support Engineer (AMER - Weekends)",
+   "company": "Supabase",
+   "location": "LATAM, Canada, USA",
+   "url": "https://jobicy.com/jobs/152807-support-engineer-amer-weekends",
+   "posted": "2026-11-10T03:00:23+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "2ad99aff5863",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
    "matched_on": "support engineer",
    "age_days": 0,
-   "posted_human": "09 Nov 2026",
+   "posted_human": "10 Nov 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "IT Operations Manager",
+   "company": "Deblock",
+   "location": "Portugal",
+   "url": "https://himalayas.app/companies/deblock/jobs/it-operations-manager?utm_source=api",
+   "posted": "2026-11-10T06:38:53",
+   "employment": "Full Time",
+   "source": "Himalayas",
+   "id": "42faffa4f126",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "it operations",
+   "age_days": 0,
+   "posted_human": "10 Nov 2026",
    "why": [],
    "is_new": true
   },
@@ -347,7 +346,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 17,
+   "age_days": 18,
    "posted_human": "23 Oct 2026",
    "why": [],
    "is_new": false
@@ -370,7 +369,7 @@
    "why": [
     "usa only"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Sr Technical Support Representative",
