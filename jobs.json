@@ -1,17 +1,79 @@
 {
- "updated": "13 Nov 2026, 09:15 UTC",
+ "updated": "14 Nov 2026, 08:45 UTC",
  "total": 22,
- "new_count": 3,
+ "new_count": 4,
  "source_log": [
-  "Remotive: 14 fetched",
-  "RemoteOK: 98 fetched",
+  "Remotive: 16 fetched",
+  "RemoteOK: 97 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 122 fetched",
+  "We Work Remotely: 121 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
+  {
+   "title": "(Senior) IT Support Specialist (m/f/d)",
+   "company": "Statista",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/statista/senior-it-support-specialist-hamburg-14952",
+   "posted": "2026-11-14T03:40:26",
+   "employment": "Full Time",
+   "source": "Arbeitnow",
+   "id": "2fe6e3b2f6f5",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "it support",
+   "age_days": 0,
+   "posted_human": "14 Nov 2026",
+   "why": [
+    "worldwide",
+    "global"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Associate Director of IT Operations",
+   "company": "hellofresh",
+   "location": "Sydney, Australia",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/associate-director-of-it-operations-sydney-australia-92408",
+   "posted": "2026-11-14T06:55:25",
+   "employment": "",
+   "source": "Arbeitnow",
+   "id": "cab3b6ee534e",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "it operations",
+   "age_days": 0,
+   "posted_human": "14 Nov 2026",
+   "why": [
+    "global",
+    "apac"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Technical Support Specialist, AU",
+   "company": "Nash",
+   "location": "Australia",
+   "url": "https://jobicy.com/jobs/155304-technical-support-specialist-au",
+   "posted": "2026-11-14T02:55:09+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "56d0a267773d",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": 0,
+   "posted_human": "14 Nov 2026",
+   "why": [
+    "global"
+   ],
+   "is_new": true
+  },
   {
    "title": "Tier III Service Desk Engineer",
    "company": "Unio Digital",
@@ -25,7 +87,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 6,
+   "age_days": 7,
    "posted_human": "07 Nov 2026",
    "why": [
     "worldwide"
@@ -45,7 +107,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it operations",
-   "age_days": 27,
+   "age_days": 28,
    "posted_human": "16 Oct 2026",
    "why": [
     "global"
@@ -217,47 +279,6 @@
    "is_new": false
   },
   {
-   "title": "IT Support Specialist",
-   "company": "6sense",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/6sense-it-support-specialist",
-   "posted": "Thu, 15 Oct 2026 07:31:14 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "c9bd5c3d02d9",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "it support",
-   "age_days": null,
-   "posted_human": "Date not stated",
-   "why": [
-    "anywhere",
-    "global"
-   ],
-   "is_new": false
-  },
-  {
-   "title": "Product Support Specialist - EMEA",
-   "company": "Ashby",
-   "location": "Europe",
-   "url": "https://jobicy.com/jobs/153069-product-support-specialist-emea",
-   "posted": "2026-11-13T03:10:14+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "f098457cde10",
-   "verdict": "May include your region",
-   "rank": 2,
-   "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": 0,
-   "posted_human": "13 Nov 2026",
-   "why": [
-    "emea"
-   ],
-   "is_new": true
-  },
-  {
    "title": "Bookkeeper & Admin Support Specialist - Dayshift Remote",
    "company": "D2B",
    "location": "Asia Only",
@@ -278,40 +299,20 @@
    "is_new": false
   },
   {
-   "title": "Senior System Administrator",
-   "company": "True Talent Solutions Partners",
-   "location": "Freiburg im Breisgau",
-   "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-system-administrator-freiburg-im-breisgau-9298",
-   "posted": "2026-11-13T03:40:14",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "eb20df417d43",
-   "verdict": "Location unclear",
-   "rank": 2.5,
-   "sponsors": true,
-   "matched_on": "system administrator",
-   "age_days": 0,
-   "posted_human": "13 Nov 2026",
-   "why": [
-    "visa sponsorship"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Senior Customer Support Engineer",
-   "company": "Collibra",
-   "location": "Australia",
-   "url": "https://jobicy.com/jobs/155175-senior-customer-support-engineer-4",
-   "posted": "2026-11-13T03:15:09+00:00",
+   "title": "Support Engineer",
+   "company": "Spreedly",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/155268-support-engineer-2",
+   "posted": "2026-11-14T02:55:17+00:00",
    "employment": "Full-Time",
    "source": "Jobicy",
-   "id": "47597bbbcecc",
+   "id": "b4440081118e",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
    "matched_on": "support engineer",
    "age_days": 0,
-   "posted_human": "13 Nov 2026",
+   "posted_human": "14 Nov 2026",
    "why": [],
    "is_new": true
   },
@@ -328,7 +329,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 3,
+   "age_days": 4,
    "posted_human": "09 Nov 2026",
    "why": [],
    "is_new": false
@@ -346,7 +347,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 21,
+   "age_days": 22,
    "posted_human": "23 Oct 2026",
    "why": [],
    "is_new": false
