@@ -1,79 +1,17 @@
 {
- "updated": "14 Nov 2026, 08:45 UTC",
- "total": 22,
- "new_count": 4,
+ "updated": "15 Nov 2026, 08:57 UTC",
+ "total": 20,
+ "new_count": 2,
  "source_log": [
   "Remotive: 16 fetched",
   "RemoteOK: 97 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 121 fetched",
+  "We Work Remotely: 120 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
-  {
-   "title": "(Senior) IT Support Specialist (m/f/d)",
-   "company": "Statista",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/statista/senior-it-support-specialist-hamburg-14952",
-   "posted": "2026-11-14T03:40:26",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "2fe6e3b2f6f5",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "it support",
-   "age_days": 0,
-   "posted_human": "14 Nov 2026",
-   "why": [
-    "worldwide",
-    "global"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Associate Director of IT Operations",
-   "company": "hellofresh",
-   "location": "Sydney, Australia",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/associate-director-of-it-operations-sydney-australia-92408",
-   "posted": "2026-11-14T06:55:25",
-   "employment": "",
-   "source": "Arbeitnow",
-   "id": "cab3b6ee534e",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "it operations",
-   "age_days": 0,
-   "posted_human": "14 Nov 2026",
-   "why": [
-    "global",
-    "apac"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Technical Support Specialist, AU",
-   "company": "Nash",
-   "location": "Australia",
-   "url": "https://jobicy.com/jobs/155304-technical-support-specialist-au",
-   "posted": "2026-11-14T02:55:09+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "56d0a267773d",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "technical support",
-   "age_days": 0,
-   "posted_human": "14 Nov 2026",
-   "why": [
-    "global"
-   ],
-   "is_new": true
-  },
   {
    "title": "Tier III Service Desk Engineer",
    "company": "Unio Digital",
@@ -87,7 +25,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 7,
+   "age_days": 8,
    "posted_human": "07 Nov 2026",
    "why": [
     "worldwide"
@@ -107,7 +45,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it operations",
-   "age_days": 28,
+   "age_days": 29,
    "posted_human": "16 Oct 2026",
    "why": [
     "global"
@@ -299,20 +237,38 @@
    "is_new": false
   },
   {
-   "title": "Support Engineer",
-   "company": "Spreedly",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/155268-support-engineer-2",
-   "posted": "2026-11-14T02:55:17+00:00",
+   "title": "IT Administrator - (Senior) IT Administrator",
+   "company": "Apex Ai",
+   "location": "Munich",
+   "url": "https://www.arbeitnow.com/jobs/companies/apex-ai/it-administrator-senior-it-administrator-munich-16121",
+   "posted": "2026-11-14T21:26:38",
    "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "b4440081118e",
+   "source": "Arbeitnow",
+   "id": "fa9a48303351",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "support engineer",
+   "matched_on": "it administrator",
    "age_days": 0,
    "posted_human": "14 Nov 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "AR Support Specialist",
+   "company": "Ferrellgas",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/ferrellgas/jobs/ar-support-specialist?utm_source=api",
+   "posted": "2026-11-15T05:50:36",
+   "employment": "Full Time",
+   "source": "Himalayas",
+   "id": "a3dd28d3ad94",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "support specialist",
+   "age_days": 0,
+   "posted_human": "15 Nov 2026",
    "why": [],
    "is_new": true
   },
@@ -329,7 +285,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 4,
+   "age_days": 5,
    "posted_human": "09 Nov 2026",
    "why": [],
    "is_new": false
@@ -347,7 +303,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 22,
+   "age_days": 23,
    "posted_human": "23 Oct 2026",
    "why": [],
    "is_new": false
