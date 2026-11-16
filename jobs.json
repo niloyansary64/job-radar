@@ -1,14 +1,14 @@
 {
- "updated": "15 Nov 2026, 08:57 UTC",
- "total": 20,
- "new_count": 2,
+ "updated": "16 Nov 2026, 09:11 UTC",
+ "total": 19,
+ "new_count": 1,
  "source_log": [
   "Remotive: 16 fetched",
   "RemoteOK: 97 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 120 fetched",
+  "We Work Remotely: 124 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
@@ -25,7 +25,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 8,
+   "age_days": 9,
    "posted_human": "07 Nov 2026",
    "why": [
     "worldwide"
@@ -45,7 +45,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "it operations",
-   "age_days": 29,
+   "age_days": 30,
    "posted_human": "16 Oct 2026",
    "why": [
     "global"
@@ -217,6 +217,26 @@
    "is_new": false
   },
   {
+   "title": "Business Central Consultant Sr",
+   "company": "Axxon Consulting",
+   "location": "Argentina",
+   "url": "https://himalayas.app/companies/axxon-consulting/jobs/business-central-consultant-sr?utm_source=api",
+   "posted": "2026-11-16T08:07:15",
+   "employment": "Full Time",
+   "source": "Himalayas",
+   "id": "003ddefba4ee",
+   "verdict": "May include your region",
+   "rank": 2,
+   "sponsors": false,
+   "matched_on": "entra",
+   "age_days": 0,
+   "posted_human": "16 Nov 2026",
+   "why": [
+    "apac"
+   ],
+   "is_new": true
+  },
+  {
    "title": "Bookkeeper & Admin Support Specialist - Dayshift Remote",
    "company": "D2B",
    "location": "Asia Only",
@@ -237,42 +257,6 @@
    "is_new": false
   },
   {
-   "title": "IT Administrator - (Senior) IT Administrator",
-   "company": "Apex Ai",
-   "location": "Munich",
-   "url": "https://www.arbeitnow.com/jobs/companies/apex-ai/it-administrator-senior-it-administrator-munich-16121",
-   "posted": "2026-11-14T21:26:38",
-   "employment": "Full-Time",
-   "source": "Arbeitnow",
-   "id": "fa9a48303351",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "it administrator",
-   "age_days": 0,
-   "posted_human": "14 Nov 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "AR Support Specialist",
-   "company": "Ferrellgas",
-   "location": "United States",
-   "url": "https://himalayas.app/companies/ferrellgas/jobs/ar-support-specialist?utm_source=api",
-   "posted": "2026-11-15T05:50:36",
-   "employment": "Full Time",
-   "source": "Himalayas",
-   "id": "a3dd28d3ad94",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": 0,
-   "posted_human": "15 Nov 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
    "title": "HIL Support Specialist",
    "company": "Extend Your Team",
    "location": "",
@@ -285,7 +269,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 5,
+   "age_days": 6,
    "posted_human": "09 Nov 2026",
    "why": [],
    "is_new": false
@@ -303,7 +287,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 23,
+   "age_days": 24,
    "posted_human": "23 Oct 2026",
    "why": [],
    "is_new": false
