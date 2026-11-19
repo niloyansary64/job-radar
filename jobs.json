@@ -1,34 +1,33 @@
 {
- "updated": "18 Nov 2026, 09:54 UTC",
- "total": 19,
- "new_count": 3,
+ "updated": "19 Nov 2026, 09:59 UTC",
+ "total": 13,
+ "new_count": 4,
  "source_log": [
   "Remotive: 16 fetched",
   "RemoteOK: 97 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 125 fetched",
+  "We Work Remotely: 82 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
-   "title": "IT Administrator - AI & Cybersecurity",
-   "company": "Voodoo",
-   "location": "Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/it-administrator-ai-cybersecurity-paris-432688",
-   "posted": "2026-11-18T06:40:11",
+   "title": "Linux System Administrator - R&D",
+   "company": "Vesoma",
+   "location": "Munich",
+   "url": "https://www.arbeitnow.com/jobs/companies/vesoma/linux-system-administrator-rd-garching-bei-munchen-423457",
+   "posted": "2026-11-19T06:40:14",
    "employment": "Full Time",
    "source": "Arbeitnow",
-   "id": "15725f8cafe8",
+   "id": "0e5007051725",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "it administrator",
+   "matched_on": "system administrator",
    "age_days": 0,
-   "posted_human": "18 Nov 2026",
+   "posted_human": "19 Nov 2026",
    "why": [
-    "worldwide",
     "global"
    ],
    "is_new": true
@@ -46,12 +45,33 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 11,
+   "age_days": 12,
    "posted_human": "07 Nov 2026",
    "why": [
     "worldwide"
    ],
    "is_new": false
+  },
+  {
+   "title": "Senior Support Engineer",
+   "company": "CircleCI",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/circleci-senior-support-engineer",
+   "posted": "Thu, 19 Nov 2026 06:01:49 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "8e8b6ce59a4b",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere",
+    "asia"
+   ],
+   "is_new": true
   },
   {
    "title": "Microsoft Endpoint / Intune Consultant",
@@ -94,27 +114,6 @@
    "is_new": false
   },
   {
-   "title": "Consumer Support Specialist (Weekend Shift, Sunday - Thursday)",
-   "company": "Keeper Security",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday",
-   "posted": "Fri, 30 Oct 2026 07:31:10 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "16cfc5ee26f3",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": null,
-   "posted_human": "Date not stated",
-   "why": [
-    "anywhere",
-    "global"
-   ],
-   "is_new": false
-  },
-  {
    "title": "MSP Mac Help Desk Guru (work from home)",
    "company": "Ignition, Inc.",
    "location": "Anywhere in the World",
@@ -135,24 +134,46 @@
    "is_new": false
   },
   {
-   "title": "Technical Support Engineer, Triage & Discovery",
-   "company": "Alloy",
+   "title": "Customer Support Specialist, 30 hrs",
+   "company": "Driversnote",
    "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery",
-   "posted": "Sat, 31 Oct 2026 07:31:02 +0000",
+   "url": "https://weworkremotely.com/remote-jobs/driversnote-customer-support-specialist-30-hrs",
+   "posted": "Thu, 19 Nov 2026 08:26:44 +0000",
    "employment": "",
    "source": "We Work Remotely",
-   "id": "f31c943bf7a8",
+   "id": "763791fc31d5",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "technical support",
+   "matched_on": "support specialist",
    "age_days": null,
    "posted_human": "Date not stated",
    "why": [
     "anywhere"
    ],
-   "is_new": false
+   "is_new": true
+  },
+  {
+   "title": "Customer Support Engineer",
+   "company": "Vercel",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/vercel-customer-support-engineer",
+   "posted": "Thu, 19 Nov 2026 06:01:25 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "306e2d397e58",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "worldwide",
+    "anywhere",
+    "global"
+   ],
+   "is_new": true
   },
   {
    "title": "Technical Support Specialist",
@@ -176,82 +197,6 @@
    "is_new": false
   },
   {
-   "title": "Customer Support Specialist",
-   "company": "Mercury",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist",
-   "posted": "Mon, 26 Oct 2026 07:31:27 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "209e2ae5b2eb",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": null,
-   "posted_human": "Date not stated",
-   "why": [
-    "anywhere"
-   ],
-   "is_new": false
-  },
-  {
-   "title": "Operations Support Specialist",
-   "company": "Evolve Peptides",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist",
-   "posted": "Mon, 19 Oct 2026 17:25:15 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "b11c465babad",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": null,
-   "posted_human": "Date not stated",
-   "why": [
-    "anywhere"
-   ],
-   "is_new": false
-  },
-  {
-   "title": "Workplace Support Specialist",
-   "company": "Quantware",
-   "location": "Delft",
-   "url": "https://www.arbeitnow.nl/jobs/companies/quantware/workplace-support-specialist-delft-255392",
-   "posted": "2026-11-18T00:40:31",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "5c569ddeb155",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": 0,
-   "posted_human": "18 Nov 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "IT Support Specialist",
-   "company": "6sense",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/155698-it-support-specialist-3",
-   "posted": "2026-11-18T04:10:08+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "c9bd5c3d02d9",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "it support",
-   "age_days": 0,
-   "posted_human": "18 Nov 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
    "title": "HIL Support Specialist",
    "company": "Extend Your Team",
    "location": "",
@@ -264,7 +209,7 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 8,
+   "age_days": 9,
    "posted_human": "09 Nov 2026",
    "why": [],
    "is_new": false
@@ -282,71 +227,9 @@
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 26,
+   "age_days": 27,
    "posted_human": "23 Oct 2026",
    "why": [],
-   "is_new": false
-  },
-  {
-   "title": "IT Support Specialist",
-   "company": "EdgeQ Technologies Private Limited",
-   "location": "USA Only",
-   "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-it-support-specialist",
-   "posted": "Tue, 10 Nov 2026 17:00:28 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "09615547d258",
-   "verdict": "Likely restricted",
-   "rank": 4,
-   "sponsors": false,
-   "matched_on": "it support",
-   "age_days": null,
-   "posted_human": "Date not stated",
-   "why": [
-    "usa only",
-    "authorized to work in the united states"
-   ],
-   "is_new": false
-  },
-  {
-   "title": "Help Desk Analyst",
-   "company": "EdgeQ Technologies Private Limited",
-   "location": "USA Only",
-   "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-help-desk-analyst",
-   "posted": "Tue, 10 Nov 2026 17:00:26 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "bebe84e6e0e9",
-   "verdict": "Likely restricted",
-   "rank": 4,
-   "sponsors": false,
-   "matched_on": "help desk",
-   "age_days": null,
-   "posted_human": "Date not stated",
-   "why": [
-    "usa only",
-    "authorized to work in the united states"
-   ],
-   "is_new": false
-  },
-  {
-   "title": "Patient Support Specialist (Remote)",
-   "company": "CareTalk Health",
-   "location": "USA Only",
-   "url": "https://weworkremotely.com/remote-jobs/caretalk-health-patient-support-specialist-remote",
-   "posted": "Sun, 08 Nov 2026 17:00:27 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "a54121f4d5d7",
-   "verdict": "Likely restricted",
-   "rank": 4,
-   "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": null,
-   "posted_human": "Date not stated",
-   "why": [
-    "usa only"
-   ],
    "is_new": false
   },
   {
