@@ -1,30 +1,70 @@
 {
- "updated": "21 Nov 2026, 09:23 UTC",
- "total": 23,
- "new_count": 6,
+ "updated": "22 Nov 2026, 09:29 UTC",
+ "total": 25,
+ "new_count": 8,
  "source_log": [
   "Remotive: 16 fetched",
-  "RemoteOK: 99 fetched",
+  "RemoteOK: 100 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 128 fetched",
+  "We Work Remotely: 143 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
-   "title": "Senior IT Administrator (w/m/d)",
-   "company": "Stackfuel",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/stackfuel/senior-it-administrator-berlin-29019",
-   "posted": "2026-11-21T03:43:20",
-   "employment": "Full Time",
+   "title": "Director, Lakebase Sales Specialists (Central region)",
+   "company": "databricks",
+   "location": "Munich",
+   "url": "https://www.arbeitnow.com/jobs/companies/databricks/director-lakebase-sales-specialists-central-region-munich-277913",
+   "posted": "2026-11-22T00:55:21",
+   "employment": "",
    "source": "Arbeitnow",
-   "id": "ab0efbb6bc6d",
+   "id": "99cee5d3d77e",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "it administrator",
+   "matched_on": "entra",
+   "age_days": 0,
+   "posted_human": "22 Nov 2026",
+   "why": [
+    "global"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Field Application Engineer / Technical Support - Machine Vision (m/w/d)",
+   "company": "Vision Markets - Your global growth in Machine Vision",
+   "location": "Munich",
+   "url": "https://www.arbeitnow.com/jobs/companies/vision-markets-your-global-growth-in-machine-vision/field-application-engineer-technical-support-machine-vision-munich-312199",
+   "posted": "2026-11-22T00:00:22",
+   "employment": "Unbefristeter arbeitsvertrag, berufserfahren",
+   "source": "Arbeitnow",
+   "id": "52362922a3bd",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": 0,
+   "posted_human": "22 Nov 2026",
+   "why": [
+    "global"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Director of Support Engineering",
+   "company": "unframe",
+   "location": "Berlin, Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/unframe/director-of-support-engineering-berlin-berlin-90619",
+   "posted": "2026-11-21T15:55:27",
+   "employment": "",
+   "source": "Arbeitnow",
+   "id": "693568ac6259",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "support engineer",
    "age_days": 0,
    "posted_human": "21 Nov 2026",
    "why": [
@@ -45,13 +85,13 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "20 Nov 2026",
    "why": [
     "global",
     "emea"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Tier III Service Desk Engineer",
@@ -66,12 +106,33 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 14,
+   "age_days": 15,
    "posted_human": "07 Nov 2026",
    "why": [
     "worldwide"
    ],
    "is_new": false
+  },
+  {
+   "title": "Senior Salesforce Business Systems Administrator",
+   "company": "Salesloft",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/salesloft-senior-salesforce-business-systems-administrator",
+   "posted": "Sat, 21 Nov 2026 18:31:36 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "b4c60e42769b",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "systems administrator",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere",
+    "global"
+   ],
+   "is_new": true
   },
   {
    "title": "Senior Support Engineer",
@@ -153,6 +214,68 @@
     "anywhere"
    ],
    "is_new": false
+  },
+  {
+   "title": "Designated Technical Support Engineer - West",
+   "company": "Glean",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/glean-designated-technical-support-engineer-west",
+   "posted": "Sun, 22 Nov 2026 06:01:38 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "c846845a8931",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere",
+    "global"
+   ],
+   "is_new": false
+  },
+  {
+   "title": "Designated Technical Support Engineer - Central/East",
+   "company": "Glean",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/glean-designated-technical-support-engineer-central-east",
+   "posted": "Sun, 22 Nov 2026 06:01:31 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "c3dba5e99d3b",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere",
+    "global"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Remote Customer Support Specialist",
+   "company": "Resolv.Global",
+   "location": "North America Only",
+   "url": "https://weworkremotely.com/remote-jobs/resolv-global-remote-customer-support-specialist",
+   "posted": "Sat, 21 Nov 2026 17:00:09 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "0c74490d75b7",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "support specialist",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "global"
+   ],
+   "is_new": true
   },
   {
    "title": "Customer Support Specialist - Risk",
@@ -260,118 +383,41 @@
    "is_new": false
   },
   {
-   "title": "Database Support Engineer (Japanese Speaking)",
-   "company": "Supabase",
+   "title": "Product Support Specialist",
+   "company": "WIN Home Inspection",
    "location": "APAC",
-   "url": "https://jobicy.com/jobs/156249-database-support-engineer-japanese-speaking",
-   "posted": "2026-11-21T03:25:25+00:00",
+   "url": "https://jobicy.com/jobs/163766-product-support-specialist-3",
+   "posted": "2026-11-22T04:27:07+00:00",
    "employment": "Full-Time",
    "source": "Jobicy",
-   "id": "c18657815582",
+   "id": "2d574505b010",
    "verdict": "May include your region",
    "rank": 2,
    "sponsors": false,
-   "matched_on": "support engineer",
+   "matched_on": "support specialist",
    "age_days": 0,
-   "posted_human": "21 Nov 2026",
+   "posted_human": "22 Nov 2026",
    "why": [
     "apac"
    ],
    "is_new": true
   },
   {
-   "title": "IT Support Spezialist - Telematikinfrastruktur & Healthcare IT/APIs(x/f/m)",
-   "company": "Doctolib",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/doctolib/it-support-spezialist-telematikinfrastruktur-healthcare-it-apis-berlin-60362",
-   "posted": "2026-11-21T03:43:20",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "1307e76d7e61",
+   "title": "Advanced Support Specialist - Payments, Thailand",
+   "company": "Cloudbeds",
+   "location": "Thailand",
+   "url": "https://jobicy.com/jobs/163793-advanced-support-specialist-payments-thailand",
+   "posted": "2026-11-22T05:51:17+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "8deb9ce20bef",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "it support",
+   "matched_on": "support specialist",
    "age_days": 0,
-   "posted_human": "21 Nov 2026",
+   "posted_human": "22 Nov 2026",
    "why": [],
-   "is_new": true
-  },
-  {
-   "title": "IT Supporter 1st & 2nd Level (56382)",
-   "company": "IQ Plus AG",
-   "location": "Basel",
-   "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/it-supporter-1st-amp-2nd-level-56382-basel-498393",
-   "posted": "2026-11-20T12:31:00",
-   "employment": "Unbefristeter arbeitsvertrag, berufserfahren",
-   "source": "Arbeitnow",
-   "id": "71fd17673443",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "it support",
-   "age_days": 0,
-   "posted_human": "20 Nov 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "M365 System Engineer (22184 / Contract-to-Hire)",
-   "company": "IQ Plus AG",
-   "location": "Bern",
-   "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/m365-system-engineer-22184-contract-to-hire-bern-280487",
-   "posted": "2026-11-20T10:01:30",
-   "employment": "Selbstst\u00e4ndiger / freelancer, freelance, berufserfahren",
-   "source": "Arbeitnow",
-   "id": "567b4eeb04f8",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "m365",
-   "age_days": 0,
-   "posted_human": "20 Nov 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "L1 Technical Support Engineer (Spanish-Speaking)",
-   "company": "Abnormal",
-   "location": "US Only",
-   "url": "https://remoteOK.com/remote-jobs/remote-l1-technical-support-engineer-spanish-speaking-abnormal-1137821",
-   "posted": "2026-11-19T12:30:02+00:00",
-   "employment": "",
-   "source": "RemoteOK",
-   "id": "d5306b67b520",
-   "verdict": "Likely restricted",
-   "rank": 4,
-   "sponsors": false,
-   "matched_on": "technical support",
-   "age_days": 1,
-   "posted_human": "19 Nov 2026",
-   "why": [
-    "us only"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Designated Technical Support Engineer - West",
-   "company": "Glean",
-   "location": "US Only",
-   "url": "https://remoteOK.com/remote-jobs/remote-designated-technical-support-engineer-west-glean-1137820",
-   "posted": "2026-11-19T12:15:01+00:00",
-   "employment": "",
-   "source": "RemoteOK",
-   "id": "c846845a8931",
-   "verdict": "Likely restricted",
-   "rank": 4,
-   "sponsors": false,
-   "matched_on": "technical support",
-   "age_days": 1,
-   "posted_human": "19 Nov 2026",
-   "why": [
-    "global",
-    "us only"
-   ],
    "is_new": true
   },
   {
@@ -393,7 +439,7 @@
     "apac",
     "usa only"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Bilingual Customer Support Specialist (English/French-Canadian)",
@@ -414,7 +460,7 @@
     "global",
     "canada only"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Part-Time HUBZone Business Operations & Support Specialist",
@@ -436,7 +482,7 @@
     "usa only",
     "authorized to work in the united states"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Sr Technical Support Representative",
