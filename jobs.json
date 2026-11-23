@@ -1,73 +1,55 @@
 {
- "updated": "22 Nov 2026, 09:29 UTC",
- "total": 25,
- "new_count": 8,
+ "updated": "23 Nov 2026, 10:28 UTC",
+ "total": 26,
+ "new_count": 5,
  "source_log": [
   "Remotive: 16 fetched",
   "RemoteOK: 100 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 143 fetched",
+  "We Work Remotely: 159 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
-   "title": "Director, Lakebase Sales Specialists (Central region)",
-   "company": "databricks",
-   "location": "Munich",
-   "url": "https://www.arbeitnow.com/jobs/companies/databricks/director-lakebase-sales-specialists-central-region-munich-277913",
-   "posted": "2026-11-22T00:55:21",
+   "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
+   "company": "Sentinellabs",
+   "location": "",
+   "url": "https://www.arbeitnow.fr/jobs/companies/sentinellabs/staff-windows-low-level-c-engineer-endpoint-security-358413",
+   "posted": "2026-11-22T21:55:16",
    "employment": "",
    "source": "Arbeitnow",
-   "id": "99cee5d3d77e",
+   "id": "33eac750686f",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "endpoint",
+   "age_days": 0,
+   "posted_human": "22 Nov 2026",
+   "why": [
+    "worldwide",
+    "global"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Executive Assistant (Remote Central or West Coast)",
+   "company": "Veeam Software",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/veeam-software/jobs/executive-assistant-remote-central-or-west-coast?utm_source=api",
+   "posted": "2026-11-23T09:27:37",
+   "employment": "Full Time",
+   "source": "Himalayas",
+   "id": "067bbe534b20",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
    "age_days": 0,
-   "posted_human": "22 Nov 2026",
+   "posted_human": "23 Nov 2026",
    "why": [
-    "global"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Field Application Engineer / Technical Support - Machine Vision (m/w/d)",
-   "company": "Vision Markets - Your global growth in Machine Vision",
-   "location": "Munich",
-   "url": "https://www.arbeitnow.com/jobs/companies/vision-markets-your-global-growth-in-machine-vision/field-application-engineer-technical-support-machine-vision-munich-312199",
-   "posted": "2026-11-22T00:00:22",
-   "employment": "Unbefristeter arbeitsvertrag, berufserfahren",
-   "source": "Arbeitnow",
-   "id": "52362922a3bd",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "technical support",
-   "age_days": 0,
-   "posted_human": "22 Nov 2026",
-   "why": [
-    "global"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Director of Support Engineering",
-   "company": "unframe",
-   "location": "Berlin, Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/unframe/director-of-support-engineering-berlin-berlin-90619",
-   "posted": "2026-11-21T15:55:27",
-   "employment": "",
-   "source": "Arbeitnow",
-   "id": "693568ac6259",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "support engineer",
-   "age_days": 0,
-   "posted_human": "21 Nov 2026",
-   "why": [
+    "worldwide",
     "global"
    ],
    "is_new": true
@@ -85,7 +67,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 1,
+   "age_days": 2,
    "posted_human": "20 Nov 2026",
    "why": [
     "global",
@@ -106,12 +88,33 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 15,
+   "age_days": 16,
    "posted_human": "07 Nov 2026",
    "why": [
     "worldwide"
    ],
    "is_new": false
+  },
+  {
+   "title": "Bilingual Systems Support Engineer, Spanish (Wednesday - Sunday)",
+   "company": "Keeper Security",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/keeper-security-bilingual-systems-support-engineer-spanish-wednesday-sunday",
+   "posted": "Sun, 22 Nov 2026 18:31:39 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "8a160b1e1a1e",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere",
+    "global"
+   ],
+   "is_new": true
   },
   {
    "title": "Senior Salesforce Business Systems Administrator",
@@ -132,7 +135,7 @@
     "anywhere",
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Senior Support Engineer",
@@ -255,7 +258,7 @@
     "anywhere",
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Remote Customer Support Specialist",
@@ -275,7 +278,7 @@
    "why": [
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Customer Support Specialist - Risk",
@@ -383,41 +386,59 @@
    "is_new": false
   },
   {
-   "title": "Product Support Specialist",
-   "company": "WIN Home Inspection",
-   "location": "APAC",
-   "url": "https://jobicy.com/jobs/163766-product-support-specialist-3",
-   "posted": "2026-11-22T04:27:07+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "2d574505b010",
-   "verdict": "May include your region",
-   "rank": 2,
-   "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": 0,
-   "posted_human": "22 Nov 2026",
-   "why": [
-    "apac"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Advanced Support Specialist - Payments, Thailand",
-   "company": "Cloudbeds",
-   "location": "Thailand",
-   "url": "https://jobicy.com/jobs/163793-advanced-support-specialist-payments-thailand",
-   "posted": "2026-11-22T05:51:17+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "8deb9ce20bef",
+   "title": "IT Spezialist / IT Supporter / System Engineer \u2022 Apple, Windows, MDM \u2022 2 Stellen \u2022 FFm *",
+   "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting f\u00fcr Digital, Sales, IT, KI, Automation",
+   "location": "Frankfurt am Main",
+   "url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/it-spezialist-it-supporter-system-engineer-apple-windows-mdm-2-stellen-ffm-frankfurt-am-main-218775",
+   "posted": "2026-11-22T22:00:38",
+   "employment": "Unbefristeter arbeitsvertrag, berufserfahren",
+   "source": "Arbeitnow",
+   "id": "c44d653ed6e0",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "support specialist",
+   "matched_on": "it support",
    "age_days": 0,
    "posted_human": "22 Nov 2026",
    "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Regional General Manager, Market Performance Central US",
+   "company": "Luna Physical Therapy",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/156618-regional-general-manager-market-performance-central-us",
+   "posted": "2026-11-23T03:45:43+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "745f7f2a51fb",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "entra",
+   "age_days": 0,
+   "posted_human": "23 Nov 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "IT Help Desk Agent - Entry Level",
+   "company": "DLN Consulting Group",
+   "location": "USA Only",
+   "url": "https://weworkremotely.com/remote-jobs/dln-consulting-group-it-help-desk-agent-entry-level",
+   "posted": "Sun, 22 Nov 2026 17:00:10 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "05b0c76c3692",
+   "verdict": "Likely restricted",
+   "rank": 4,
+   "sponsors": false,
+   "matched_on": "help desk",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "usa only"
+   ],
    "is_new": true
   },
   {
