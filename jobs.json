@@ -1,79 +1,36 @@
 {
- "updated": "23 Nov 2026, 10:28 UTC",
+ "updated": "24 Nov 2026, 12:10 UTC",
  "total": 26,
- "new_count": 5,
+ "new_count": 6,
  "source_log": [
-  "Remotive: 16 fetched",
+  "Remotive: 15 fetched",
   "RemoteOK: 100 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 159 fetched",
+  "We Work Remotely: 176 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
-   "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
-   "company": "Sentinellabs",
-   "location": "",
-   "url": "https://www.arbeitnow.fr/jobs/companies/sentinellabs/staff-windows-low-level-c-engineer-endpoint-security-358413",
-   "posted": "2026-11-22T21:55:16",
-   "employment": "",
+   "title": "IT Operations Internship",
+   "company": "Skynrg",
+   "location": "Amsterdam",
+   "url": "https://www.arbeitnow.nl/jobs/companies/skynrg/it-operations-internship-amsterdam-305050",
+   "posted": "2026-11-23T15:40:30",
+   "employment": "Intern",
    "source": "Arbeitnow",
-   "id": "33eac750686f",
+   "id": "72b57070a272",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "endpoint",
-   "age_days": 0,
-   "posted_human": "22 Nov 2026",
-   "why": [
-    "worldwide",
-    "global"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Executive Assistant (Remote Central or West Coast)",
-   "company": "Veeam Software",
-   "location": "United States",
-   "url": "https://himalayas.app/companies/veeam-software/jobs/executive-assistant-remote-central-or-west-coast?utm_source=api",
-   "posted": "2026-11-23T09:27:37",
-   "employment": "Full Time",
-   "source": "Himalayas",
-   "id": "067bbe534b20",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "entra",
+   "matched_on": "it operations",
    "age_days": 0,
    "posted_human": "23 Nov 2026",
    "why": [
-    "worldwide",
     "global"
    ],
    "is_new": true
-  },
-  {
-   "title": "Senior Sales Operations Manager (EMEA Central)",
-   "company": "Sentinellabs",
-   "location": "",
-   "url": "https://www.arbeitnow.nl/jobs/companies/sentinellabs/senior-sales-operations-manager-emea-central-354873",
-   "posted": "2026-11-20T21:55:19",
-   "employment": "",
-   "source": "Arbeitnow",
-   "id": "8e6941e2a31d",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "entra",
-   "age_days": 2,
-   "posted_human": "20 Nov 2026",
-   "why": [
-    "global",
-    "emea"
-   ],
-   "is_new": false
   },
   {
    "title": "Tier III Service Desk Engineer",
@@ -88,7 +45,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 16,
+   "age_days": 17,
    "posted_human": "07 Nov 2026",
    "why": [
     "worldwide"
@@ -114,7 +71,7 @@
     "anywhere",
     "global"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Senior Salesforce Business Systems Administrator",
@@ -217,6 +174,26 @@
     "anywhere"
    ],
    "is_new": false
+  },
+  {
+   "title": "Technical Support Specialist",
+   "company": "Elation Health",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/elation-health-technical-support-specialist",
+   "posted": "Mon, 23 Nov 2026 18:31:03 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "5a05ab5df402",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere"
+   ],
+   "is_new": true
   },
   {
    "title": "Designated Technical Support Engineer - West",
@@ -365,59 +342,76 @@
    "is_new": false
   },
   {
-   "title": "Technical Support Specialist",
-   "company": "Freshly Commerce",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1",
-   "posted": "Tue, 27 Oct 2026 16:45:57 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "5c85d9a0cb9f",
-   "verdict": "Open to anywhere",
-   "rank": 1,
+   "title": "Ing\u00e9nieur s\u00e9curit\u00e9 M365 - DLP",
+   "company": "UNEAT",
+   "location": "Lyon",
+   "url": "https://www.arbeitnow.fr/jobs/companies/uneat/ingenieur-securite-m365-dlp-lyon-114566",
+   "posted": "2026-11-24T10:01:07",
+   "employment": "Cdi - contrat \u00e0 dur\u00e9e ind\u00e9termin\u00e9e, professionnel / exp\u00e9riment\u00e9",
+   "source": "Arbeitnow",
+   "id": "b30f3cedf83e",
+   "verdict": "May include your region",
+   "rank": 2,
    "sponsors": false,
-   "matched_on": "technical support",
-   "age_days": null,
-   "posted_human": "Date not stated",
+   "matched_on": "m365",
+   "age_days": 0,
+   "posted_human": "24 Nov 2026",
    "why": [
-    "anywhere",
-    "all timezones"
+    "apac"
    ],
-   "is_new": false
+   "is_new": true
   },
   {
-   "title": "IT Spezialist / IT Supporter / System Engineer \u2022 Apple, Windows, MDM \u2022 2 Stellen \u2022 FFm *",
-   "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting f\u00fcr Digital, Sales, IT, KI, Automation",
-   "location": "Frankfurt am Main",
-   "url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/it-spezialist-it-supporter-system-engineer-apple-windows-mdm-2-stellen-ffm-frankfurt-am-main-218775",
-   "posted": "2026-11-22T22:00:38",
-   "employment": "Unbefristeter arbeitsvertrag, berufserfahren",
+   "title": "Customer Support Specialist",
+   "company": "Owkin",
+   "location": "Paris",
+   "url": "https://www.arbeitnow.fr/jobs/companies/owkin/customer-support-specialist-paris-241092",
+   "posted": "2026-11-23T21:40:11",
+   "employment": "Full Time",
    "source": "Arbeitnow",
-   "id": "c44d653ed6e0",
+   "id": "43561d254090",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "it support",
+   "matched_on": "support specialist",
    "age_days": 0,
-   "posted_human": "22 Nov 2026",
+   "posted_human": "23 Nov 2026",
    "why": [],
    "is_new": true
   },
   {
-   "title": "Regional General Manager, Market Performance Central US",
-   "company": "Luna Physical Therapy",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/156618-regional-general-manager-market-performance-central-us",
-   "posted": "2026-11-23T03:45:43+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "745f7f2a51fb",
+   "title": "Expert Projektleiter (m/w/d) - SharePoint Online / M365 Intranet (Ref.Nr.: 48376)",
+   "company": "Wavestone Germany AG",
+   "location": "Z\u00fcrich",
+   "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/expert-projektleiter-sharepoint-online-m365-intranet-refnr-48376-zurich-350725",
+   "posted": "2026-11-23T19:00:36",
+   "employment": "Selbstst\u00e4ndiger / freelancer, freelance, berufserfahren",
+   "source": "Arbeitnow",
+   "id": "67d3d4e2623d",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
-   "matched_on": "entra",
+   "matched_on": "m365",
    "age_days": 0,
    "posted_human": "23 Nov 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Staff Technical Support Engineer",
+   "company": "Cribl",
+   "location": "Netherlands",
+   "url": "https://jobicy.com/jobs/164033-staff-technical-support-engineer",
+   "posted": "2026-11-24T08:06:05+00:00",
+   "employment": "Full-Time",
+   "source": "Jobicy",
+   "id": "64e63d965424",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": 0,
+   "posted_human": "24 Nov 2026",
    "why": [],
    "is_new": true
   },
@@ -439,7 +433,7 @@
    "why": [
     "usa only"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Sr. Manager, Support Engineering (Public Sector)",
