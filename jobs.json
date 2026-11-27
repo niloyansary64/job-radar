@@ -1,17 +1,37 @@
 {
- "updated": "26 Nov 2026, 10:36 UTC",
- "total": 34,
- "new_count": 11,
+ "updated": "27 Nov 2026, 10:39 UTC",
+ "total": 30,
+ "new_count": 4,
  "source_log": [
-  "Remotive: 16 fetched",
+  "Remotive: 17 fetched",
   "RemoteOK: 100 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 206 fetched",
+  "We Work Remotely: 229 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
+  {
+   "title": "(Junior) IT Supporter - Helpdesk",
+   "company": "Coopers Group AG",
+   "location": "Z\u00fcrich",
+   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/junior-it-supporter-helpdesk-zurich-139063",
+   "posted": "2026-11-26T15:30:48",
+   "employment": "Befristeter arbeitsvertrag, contract, berufseinstieg",
+   "source": "Arbeitnow",
+   "id": "aa9cd5409a64",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "it support",
+   "age_days": 0,
+   "posted_human": "26 Nov 2026",
+   "why": [
+    "global"
+   ],
+   "is_new": true
+  },
   {
    "title": "Dutch speaking Support Specialist",
    "company": "Lightspeedhq",
@@ -25,95 +45,14 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": 0,
+   "age_days": 1,
    "posted_human": "25 Nov 2026",
    "why": [
     "global",
     "apac",
     "emea"
    ],
-   "is_new": true
-  },
-  {
-   "title": "Web Integrations Support Engineer",
-   "company": "Smartling",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/157187-web-integrations-support-engineer",
-   "posted": "2026-11-26T04:35:23+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "4fcf52b4f8a9",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "support engineer",
-   "age_days": 0,
-   "posted_human": "26 Nov 2026",
-   "why": [
-    "global"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Account Director, Private Sector (CEE & Central Asia)",
-   "company": "TRM Labs",
-   "location": "Poland",
-   "url": "https://jobicy.com/jobs/157176-account-director-private-sector-cee-central-asia",
-   "posted": "2026-11-26T04:35:19+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "851e2c654496",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "entra",
-   "age_days": 0,
-   "posted_human": "26 Nov 2026",
-   "why": [
-    "worldwide",
-    "asia"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Application Support Specialist - Weekend Nights (Fri, Sat, Sun, Mon)",
-   "company": "Sirona Medical",
-   "location": "United States",
-   "url": "https://himalayas.app/companies/sirona-medical/jobs/application-support-specialist-weekend-nights-fri-sat-sun-mon?utm_source=api",
-   "posted": "2026-11-26T09:44:22",
-   "employment": "Full Time",
-   "source": "Himalayas",
-   "id": "abe793aaff24",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": 0,
-   "posted_human": "26 Nov 2026",
-   "why": [
-    "anywhere"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Technical Support Associate - HVAC/R",
-   "company": "Budderfly",
-   "location": "United States",
-   "url": "https://himalayas.app/companies/budderfly/jobs/technical-support-associate-hvac-r?utm_source=api",
-   "posted": "2026-11-26T09:44:20",
-   "employment": "Full Time",
-   "source": "Himalayas",
-   "id": "715de0a56f38",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "technical support",
-   "age_days": 0,
-   "posted_human": "26 Nov 2026",
-   "why": [
-    "global"
-   ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Tier III Service Desk Engineer",
@@ -128,7 +67,7 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 19,
+   "age_days": 20,
    "posted_human": "07 Nov 2026",
    "why": [
     "worldwide"
@@ -155,7 +94,7 @@
     "global",
     "emea"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Bilingual Systems Support Engineer, Spanish (Wednesday - Sunday)",
@@ -289,26 +228,6 @@
    "employment": "",
    "source": "We Work Remotely",
    "id": "a1dbfe81d908",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "technical support",
-   "age_days": null,
-   "posted_human": "Date not stated",
-   "why": [
-    "anywhere"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Technical Support Engineer I",
-   "company": "Tines",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/tines-technical-support-engineer-i",
-   "posted": "Tue, 24 Nov 2026 18:32:09 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "5bdd4f7ad9dc",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
@@ -487,77 +406,100 @@
    "is_new": false
   },
   {
-   "title": "Manager, Assigned Support Engineering (EMEA)",
-   "company": "GitLab",
-   "location": "UK",
-   "url": "https://jobicy.com/jobs/157218-manager-assigned-support-engineering-emea",
-   "posted": "2026-11-26T04:35:45+00:00",
-   "employment": "Full-Time",
-   "source": "Jobicy",
-   "id": "9a5d8d95360b",
-   "verdict": "May include your region",
-   "rank": 2,
-   "sponsors": false,
-   "matched_on": "support engineer",
-   "age_days": 0,
-   "posted_human": "26 Nov 2026",
-   "why": [
-    "emea"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Senior IT Operations & Cloud Engineer (m/w/d)",
-   "company": "Reos GmbH",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/reos-gmbh/senior-it-operations-cloud-engineer-hamburg-457883",
-   "posted": "2026-11-26T07:00:44",
-   "employment": "Unbefristeter arbeitsvertrag, berufserfahren",
+   "title": "Customer Support Specialist",
+   "company": "AMBOSS",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/amboss/customer-support-specialist-berlin-106391",
+   "posted": "2026-11-26T21:40:11",
+   "employment": "Full Time",
    "source": "Arbeitnow",
-   "id": "68a72fdd5264",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "it operations",
-   "age_days": 0,
-   "posted_human": "26 Nov 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Public Sector Lead, Central & Local Government",
-   "company": "scaleai",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/public-sector-lead-central-local-government-london-186086",
-   "posted": "2026-11-26T03:55:26",
-   "employment": "",
-   "source": "Arbeitnow",
-   "id": "9d4bf9b116e4",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "entra",
-   "age_days": 0,
-   "posted_human": "26 Nov 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "ERP Support Specialist (50%) (m/w/d)",
-   "company": "unisite ag",
-   "location": "Aesch",
-   "url": "https://www.arbeitnow.ch/jobs/companies/unisite-ag/erp-support-specialist-50-aesch-317319",
-   "posted": "2026-11-25T18:00:54",
-   "employment": "Nebent\u00e4tigkeit, side, berufserfahren",
-   "source": "Arbeitnow",
-   "id": "20daeb669e9c",
+   "id": "f6ff72e3e9cb",
    "verdict": "Location unclear",
    "rank": 3,
    "sponsors": false,
    "matched_on": "support specialist",
    "age_days": 0,
-   "posted_human": "25 Nov 2026",
+   "posted_human": "26 Nov 2026",
    "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Senior Product Support Engineer",
+   "company": "Andurilindustries",
+   "location": "Sydney, Australia",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-product-support-engineer-sydney-australia-208122",
+   "posted": "2026-11-27T06:55:20",
+   "employment": "",
+   "source": "Arbeitnow",
+   "id": "e7e56f673ea4",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "support engineer",
+   "age_days": 0,
+   "posted_human": "27 Nov 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "IT Supporter / Rollout-Techniker Windows 11 (56384)",
+   "company": "IQ Plus AG",
+   "location": "Egerkingen",
+   "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/it-supporter-rollout-techniker-windows-11-56384-egerkingen-173336",
+   "posted": "2026-11-26T14:01:07",
+   "employment": "Unbefristeter arbeitsvertrag, berufserfahren",
+   "source": "Arbeitnow",
+   "id": "72c7bd5fdd0e",
+   "verdict": "Location unclear",
+   "rank": 3,
+   "sponsors": false,
+   "matched_on": "it support",
+   "age_days": 0,
+   "posted_human": "26 Nov 2026",
+   "why": [],
+   "is_new": true
+  },
+  {
+   "title": "Manager, Technical Support",
+   "company": "Coupa",
+   "location": "US Only",
+   "url": "https://remoteOK.com/remote-jobs/remote-manager-technical-support-coupa-1138159",
+   "posted": "2026-11-26T03:00:21+00:00",
+   "employment": "",
+   "source": "RemoteOK",
+   "id": "7738b158e517",
+   "verdict": "Likely restricted",
+   "rank": 4,
+   "sponsors": false,
+   "matched_on": "technical support",
+   "age_days": 1,
+   "posted_human": "26 Nov 2026",
+   "why": [
+    "global",
+    "apac",
+    "us only"
+   ],
+   "is_new": true
+  },
+  {
+   "title": "Director of Strategic Accounts, South/Central (TOLA)",
+   "company": "Jobgether",
+   "location": "US Only",
+   "url": "https://remoteOK.com/remote-jobs/remote-director-of-strategic-accounts-south-central-tola-jobgether-1138155",
+   "posted": "2026-11-26T01:40:12+00:00",
+   "employment": "",
+   "source": "RemoteOK",
+   "id": "1c8913c7ce59",
+   "verdict": "Likely restricted",
+   "rank": 4,
+   "sponsors": false,
+   "matched_on": "entra",
+   "age_days": 1,
+   "posted_human": "26 Nov 2026",
+   "why": [
+    "global",
+    "us only"
+   ],
    "is_new": true
   },
   {
@@ -573,26 +515,6 @@
    "rank": 4,
    "sponsors": false,
    "matched_on": "support specialist",
-   "age_days": null,
-   "posted_human": "Date not stated",
-   "why": [
-    "usa only"
-   ],
-   "is_new": false
-  },
-  {
-   "title": "IT Help Desk Agent - Entry Level",
-   "company": "DLN Consulting Group",
-   "location": "USA Only",
-   "url": "https://weworkremotely.com/remote-jobs/dln-consulting-group-it-help-desk-agent-entry-level",
-   "posted": "Sun, 22 Nov 2026 17:00:10 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "05b0c76c3692",
-   "verdict": "Likely restricted",
-   "rank": 4,
-   "sponsors": false,
-   "matched_on": "help desk",
    "age_days": null,
    "posted_human": "Date not stated",
    "why": [
