@@ -1,58 +1,37 @@
 {
- "updated": "27 Nov 2026, 10:39 UTC",
- "total": 30,
- "new_count": 4,
+ "updated": "28 Nov 2026, 09:56 UTC",
+ "total": 28,
+ "new_count": 3,
  "source_log": [
-  "Remotive: 17 fetched",
+  "Remotive: 16 fetched",
   "RemoteOK: 100 fetched",
   "Arbeitnow: 300 fetched",
   "Jobicy: 50 fetched",
   "Himalayas: 20 fetched",
-  "We Work Remotely: 229 fetched",
+  "We Work Remotely: 242 fetched",
   "ReliefWeb: unavailable (HTTPError)"
  ],
  "jobs": [
   {
-   "title": "(Junior) IT Supporter - Helpdesk",
-   "company": "Coopers Group AG",
-   "location": "Z\u00fcrich",
-   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/junior-it-supporter-helpdesk-zurich-139063",
-   "posted": "2026-11-26T15:30:48",
-   "employment": "Befristeter arbeitsvertrag, contract, berufseinstieg",
-   "source": "Arbeitnow",
-   "id": "aa9cd5409a64",
+   "title": "Partner Sales Manager - EMEA Central (Eastern Europe)",
+   "company": "Snowflake",
+   "location": "Europe",
+   "url": "https://remoteOK.com/remote-jobs/remote-partner-sales-manager-emea-central-eastern-europe-snowflake-1138198",
+   "posted": "2026-11-26T15:40:28+00:00",
+   "employment": "",
+   "source": "RemoteOK",
+   "id": "e9bc784390cd",
    "verdict": "Open to anywhere",
    "rank": 1,
    "sponsors": false,
-   "matched_on": "it support",
-   "age_days": 0,
+   "matched_on": "entra",
+   "age_days": 1,
    "posted_human": "26 Nov 2026",
    "why": [
-    "global"
-   ],
-   "is_new": true
-  },
-  {
-   "title": "Dutch speaking Support Specialist",
-   "company": "Lightspeedhq",
-   "location": "Remote in the Netherlands",
-   "url": "https://www.arbeitnow.nl/jobs/companies/lightspeedhq/remote-dutch-speaking-support-specialist-217780",
-   "posted": "2026-11-25T21:40:15",
-   "employment": "Full Time",
-   "source": "Arbeitnow",
-   "id": "b76ebb21f9d3",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": 1,
-   "posted_human": "25 Nov 2026",
-   "why": [
     "global",
-    "apac",
     "emea"
    ],
-   "is_new": false
+   "is_new": true
   },
   {
    "title": "Tier III Service Desk Engineer",
@@ -67,12 +46,34 @@
    "rank": 1,
    "sponsors": false,
    "matched_on": "service desk",
-   "age_days": 20,
+   "age_days": 21,
    "posted_human": "07 Nov 2026",
    "why": [
     "worldwide"
    ],
    "is_new": false
+  },
+  {
+   "title": "NOC Engineer",
+   "company": "MetaMask",
+   "location": "Anywhere in the World",
+   "url": "https://weworkremotely.com/remote-jobs/metamask-noc-engineer",
+   "posted": "Fri, 27 Nov 2026 18:31:11 +0000",
+   "employment": "",
+   "source": "We Work Remotely",
+   "id": "7dc76bcb1076",
+   "verdict": "Open to anywhere",
+   "rank": 1,
+   "sponsors": false,
+   "matched_on": "noc",
+   "age_days": null,
+   "posted_human": "Date not stated",
+   "why": [
+    "anywhere",
+    "global",
+    "emea"
+   ],
+   "is_new": true
   },
   {
    "title": "Senior Systems Administrator",
@@ -342,28 +343,6 @@
    "is_new": false
   },
   {
-   "title": "Manager, Customer Support Engineering",
-   "company": "Fivetran",
-   "location": "Anywhere in the World",
-   "url": "https://weworkremotely.com/remote-jobs/fivetran-manager-customer-support-engineering",
-   "posted": "Thu, 19 Nov 2026 18:30:55 +0000",
-   "employment": "",
-   "source": "We Work Remotely",
-   "id": "eafe575afd19",
-   "verdict": "Open to anywhere",
-   "rank": 1,
-   "sponsors": false,
-   "matched_on": "support engineer",
-   "age_days": null,
-   "posted_human": "Date not stated",
-   "why": [
-    "anywhere",
-    "global",
-    "apac"
-   ],
-   "is_new": false
-  },
-  {
    "title": "Customer Support Specialist, 30 hrs",
    "company": "Driversnote",
    "location": "Anywhere in the World",
@@ -406,57 +385,44 @@
    "is_new": false
   },
   {
-   "title": "Customer Support Specialist",
-   "company": "AMBOSS",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/amboss/customer-support-specialist-berlin-106391",
-   "posted": "2026-11-26T21:40:11",
+   "title": "Director Distribution EMEA Central (m/f/d)",
+   "company": "Sophos",
+   "location": "Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/sophos/director-distribution-emea-central-germany-488311",
+   "posted": "2026-11-27T18:40:14",
    "employment": "Full Time",
    "source": "Arbeitnow",
-   "id": "f6ff72e3e9cb",
-   "verdict": "Location unclear",
-   "rank": 3,
+   "id": "e153f3890922",
+   "verdict": "May include your region",
+   "rank": 2,
    "sponsors": false,
-   "matched_on": "support specialist",
-   "age_days": 0,
-   "posted_human": "26 Nov 2026",
-   "why": [],
-   "is_new": true
-  },
-  {
-   "title": "Senior Product Support Engineer",
-   "company": "Andurilindustries",
-   "location": "Sydney, Australia",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-product-support-engineer-sydney-australia-208122",
-   "posted": "2026-11-27T06:55:20",
-   "employment": "",
-   "source": "Arbeitnow",
-   "id": "e7e56f673ea4",
-   "verdict": "Location unclear",
-   "rank": 3,
-   "sponsors": false,
-   "matched_on": "support engineer",
+   "matched_on": "entra",
    "age_days": 0,
    "posted_human": "27 Nov 2026",
-   "why": [],
+   "why": [
+    "emea"
+   ],
    "is_new": true
   },
   {
-   "title": "IT Supporter / Rollout-Techniker Windows 11 (56384)",
-   "company": "IQ Plus AG",
-   "location": "Egerkingen",
-   "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/it-supporter-rollout-techniker-windows-11-56384-egerkingen-173336",
-   "posted": "2026-11-26T14:01:07",
-   "employment": "Unbefristeter arbeitsvertrag, berufserfahren",
-   "source": "Arbeitnow",
-   "id": "72c7bd5fdd0e",
-   "verdict": "Location unclear",
-   "rank": 3,
+   "title": "Bilingual Spanish Customer Support Specialist",
+   "company": "Experian",
+   "location": "US Only",
+   "url": "https://remoteOK.com/remote-jobs/remote-bilingual-spanish-customer-support-specialist-experian-1138217",
+   "posted": "2026-11-27T04:40:41+00:00",
+   "employment": "",
+   "source": "RemoteOK",
+   "id": "df6e430fe820",
+   "verdict": "Likely restricted",
+   "rank": 4,
    "sponsors": false,
-   "matched_on": "it support",
-   "age_days": 0,
-   "posted_human": "26 Nov 2026",
-   "why": [],
+   "matched_on": "support specialist",
+   "age_days": 1,
+   "posted_human": "27 Nov 2026",
+   "why": [
+    "global",
+    "us only"
+   ],
    "is_new": true
   },
   {
@@ -472,14 +438,14 @@
    "rank": 4,
    "sponsors": false,
    "matched_on": "technical support",
-   "age_days": 1,
+   "age_days": 2,
    "posted_human": "26 Nov 2026",
    "why": [
     "global",
     "apac",
     "us only"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Director of Strategic Accounts, South/Central (TOLA)",
@@ -494,13 +460,13 @@
    "rank": 4,
    "sponsors": false,
    "matched_on": "entra",
-   "age_days": 1,
+   "age_days": 2,
    "posted_human": "26 Nov 2026",
    "why": [
     "global",
     "us only"
    ],
-   "is_new": true
+   "is_new": false
   },
   {
    "title": "Retail Support Specialist",
